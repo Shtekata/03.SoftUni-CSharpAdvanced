@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\05. Directory Traversal\bin\Debug\netcoreapp2.2\05. Directory Traversal.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\05. Directory Traversal\bin\Debug\netcoreapp2.2\05. Directory Traversal.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\05. Directory Traversal\bin\Debug\netcoreapp2.2\05. Directory Traversal.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\05. Directory Traversal\bin\Debug\netcoreapp2.2\05. Directory Traversal.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\05. Directory Traversal\bin\Debug\netcoreapp2.2\05. Directory Traversal.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\05. Directory Traversal\obj\Debug\netcoreapp2.2\05. Directory Traversal.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\05. Directory Traversal\obj\Debug\netcoreapp2.2\05. Directory Traversal.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\05. Directory Traversal\obj\Debug\netcoreapp2.2\05. Directory Traversal.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\05. Directory Traversal\obj\Debug\netcoreapp2.2\05. Directory Traversal.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\05. Directory Traversal\obj\Debug\netcoreapp2.2\05. Directory Traversal.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\05. Directory Traversal\obj\Debug\netcoreapp2.2\05. Directory Traversal.csprojAssemblyReference.cache

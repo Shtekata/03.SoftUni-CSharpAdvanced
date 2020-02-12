@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>D:\OneDrive\Projects\03. SoftUni - C# Advanced\15. WORKSHOP\15. WORKSHOP\CustomStructures\CustomStructures.xml</DocumentationFile>
+  </PropertyGroup>
+
+</Project>

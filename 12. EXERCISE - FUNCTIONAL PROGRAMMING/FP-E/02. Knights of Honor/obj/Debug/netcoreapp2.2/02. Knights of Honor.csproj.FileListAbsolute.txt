@@ -1,0 +1,10 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\02. Knights of Honor\bin\Debug\netcoreapp2.2\02. Knights of Honor.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\02. Knights of Honor\bin\Debug\netcoreapp2.2\02. Knights of Honor.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\02. Knights of Honor\bin\Debug\netcoreapp2.2\02. Knights of Honor.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\02. Knights of Honor\bin\Debug\netcoreapp2.2\02. Knights of Honor.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\02. Knights of Honor\bin\Debug\netcoreapp2.2\02. Knights of Honor.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\02. Knights of Honor\obj\Debug\netcoreapp2.2\02. Knights of Honor.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\02. Knights of Honor\obj\Debug\netcoreapp2.2\02. Knights of Honor.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\02. Knights of Honor\obj\Debug\netcoreapp2.2\02. Knights of Honor.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\02. Knights of Honor\obj\Debug\netcoreapp2.2\02. Knights of Honor.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\02. Knights of Honor\obj\Debug\netcoreapp2.2\02. Knights of Honor.pdb

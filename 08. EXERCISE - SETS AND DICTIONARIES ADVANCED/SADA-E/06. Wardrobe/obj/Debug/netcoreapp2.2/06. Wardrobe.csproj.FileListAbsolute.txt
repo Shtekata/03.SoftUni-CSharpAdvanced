@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\08. EXERCISE - SETS AND DICTIONARIES ADVANCED\SADA-E\06. Wardrobe\bin\Debug\netcoreapp2.2\06. Wardrobe.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\08. EXERCISE - SETS AND DICTIONARIES ADVANCED\SADA-E\06. Wardrobe\bin\Debug\netcoreapp2.2\06. Wardrobe.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\08. EXERCISE - SETS AND DICTIONARIES ADVANCED\SADA-E\06. Wardrobe\bin\Debug\netcoreapp2.2\06. Wardrobe.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\08. EXERCISE - SETS AND DICTIONARIES ADVANCED\SADA-E\06. Wardrobe\bin\Debug\netcoreapp2.2\06. Wardrobe.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\08. EXERCISE - SETS AND DICTIONARIES ADVANCED\SADA-E\06. Wardrobe\bin\Debug\netcoreapp2.2\06. Wardrobe.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\08. EXERCISE - SETS AND DICTIONARIES ADVANCED\SADA-E\06. Wardrobe\obj\Debug\netcoreapp2.2\06. Wardrobe.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\08. EXERCISE - SETS AND DICTIONARIES ADVANCED\SADA-E\06. Wardrobe\obj\Debug\netcoreapp2.2\06. Wardrobe.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\08. EXERCISE - SETS AND DICTIONARIES ADVANCED\SADA-E\06. Wardrobe\obj\Debug\netcoreapp2.2\06. Wardrobe.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\08. EXERCISE - SETS AND DICTIONARIES ADVANCED\SADA-E\06. Wardrobe\obj\Debug\netcoreapp2.2\06. Wardrobe.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\08. EXERCISE - SETS AND DICTIONARIES ADVANCED\SADA-E\06. Wardrobe\obj\Debug\netcoreapp2.2\06. Wardrobe.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\08. EXERCISE - SETS AND DICTIONARIES ADVANCED\SADA-E\06. Wardrobe\obj\Debug\netcoreapp2.2\06. Wardrobe.pdb

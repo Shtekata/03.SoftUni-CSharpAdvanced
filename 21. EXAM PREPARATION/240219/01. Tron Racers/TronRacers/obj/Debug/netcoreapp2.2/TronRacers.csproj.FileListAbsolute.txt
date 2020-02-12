@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\21. EXAM PREPARATION\240219\01. Tron Racers\TronRacers\bin\Debug\netcoreapp2.2\TronRacers.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\21. EXAM PREPARATION\240219\01. Tron Racers\TronRacers\bin\Debug\netcoreapp2.2\TronRacers.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\21. EXAM PREPARATION\240219\01. Tron Racers\TronRacers\bin\Debug\netcoreapp2.2\TronRacers.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\21. EXAM PREPARATION\240219\01. Tron Racers\TronRacers\bin\Debug\netcoreapp2.2\TronRacers.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\21. EXAM PREPARATION\240219\01. Tron Racers\TronRacers\bin\Debug\netcoreapp2.2\TronRacers.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\21. EXAM PREPARATION\240219\01. Tron Racers\TronRacers\obj\Debug\netcoreapp2.2\TronRacers.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\21. EXAM PREPARATION\240219\01. Tron Racers\TronRacers\obj\Debug\netcoreapp2.2\TronRacers.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\21. EXAM PREPARATION\240219\01. Tron Racers\TronRacers\obj\Debug\netcoreapp2.2\TronRacers.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\21. EXAM PREPARATION\240219\01. Tron Racers\TronRacers\obj\Debug\netcoreapp2.2\TronRacers.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\21. EXAM PREPARATION\240219\01. Tron Racers\TronRacers\obj\Debug\netcoreapp2.2\TronRacers.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\21. EXAM PREPARATION\240219\01. Tron Racers\TronRacers\obj\Debug\netcoreapp2.2\TronRacers.pdb

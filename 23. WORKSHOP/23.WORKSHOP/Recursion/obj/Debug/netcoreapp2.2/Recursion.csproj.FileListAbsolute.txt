@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23. WORKSHOP\23.WORKSHOP\Recursion\bin\Debug\netcoreapp2.2\Recursion.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23. WORKSHOP\23.WORKSHOP\Recursion\bin\Debug\netcoreapp2.2\Recursion.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23. WORKSHOP\23.WORKSHOP\Recursion\bin\Debug\netcoreapp2.2\Recursion.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23. WORKSHOP\23.WORKSHOP\Recursion\bin\Debug\netcoreapp2.2\Recursion.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23. WORKSHOP\23.WORKSHOP\Recursion\bin\Debug\netcoreapp2.2\Recursion.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23. WORKSHOP\23.WORKSHOP\Recursion\obj\Debug\netcoreapp2.2\Recursion.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23. WORKSHOP\23.WORKSHOP\Recursion\obj\Debug\netcoreapp2.2\Recursion.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23. WORKSHOP\23.WORKSHOP\Recursion\obj\Debug\netcoreapp2.2\Recursion.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23. WORKSHOP\23.WORKSHOP\Recursion\obj\Debug\netcoreapp2.2\Recursion.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23. WORKSHOP\23.WORKSHOP\Recursion\obj\Debug\netcoreapp2.2\Recursion.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23. WORKSHOP\23.WORKSHOP\Recursion\obj\Debug\netcoreapp2.2\Recursion.pdb

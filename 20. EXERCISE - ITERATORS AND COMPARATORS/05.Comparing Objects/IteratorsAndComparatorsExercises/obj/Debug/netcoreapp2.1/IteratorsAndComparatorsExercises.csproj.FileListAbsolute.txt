@@ -1,0 +1,10 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\20. EXERCISE - ITERATORS AND COMPARATORS\05.Comparing Objects\IteratorsAndComparatorsExercises\bin\Debug\netcoreapp2.1\IteratorsAndComparatorsExercises.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\20. EXERCISE - ITERATORS AND COMPARATORS\05.Comparing Objects\IteratorsAndComparatorsExercises\bin\Debug\netcoreapp2.1\IteratorsAndComparatorsExercises.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\20. EXERCISE - ITERATORS AND COMPARATORS\05.Comparing Objects\IteratorsAndComparatorsExercises\bin\Debug\netcoreapp2.1\IteratorsAndComparatorsExercises.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\20. EXERCISE - ITERATORS AND COMPARATORS\05.Comparing Objects\IteratorsAndComparatorsExercises\bin\Debug\netcoreapp2.1\IteratorsAndComparatorsExercises.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\20. EXERCISE - ITERATORS AND COMPARATORS\05.Comparing Objects\IteratorsAndComparatorsExercises\bin\Debug\netcoreapp2.1\IteratorsAndComparatorsExercises.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\20. EXERCISE - ITERATORS AND COMPARATORS\05.Comparing Objects\IteratorsAndComparatorsExercises\obj\Debug\netcoreapp2.1\IteratorsAndComparatorsExercises.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\20. EXERCISE - ITERATORS AND COMPARATORS\05.Comparing Objects\IteratorsAndComparatorsExercises\obj\Debug\netcoreapp2.1\IteratorsAndComparatorsExercises.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\20. EXERCISE - ITERATORS AND COMPARATORS\05.Comparing Objects\IteratorsAndComparatorsExercises\obj\Debug\netcoreapp2.1\IteratorsAndComparatorsExercises.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\20. EXERCISE - ITERATORS AND COMPARATORS\05.Comparing Objects\IteratorsAndComparatorsExercises\obj\Debug\netcoreapp2.1\IteratorsAndComparatorsExercises.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\20. EXERCISE - ITERATORS AND COMPARATORS\05.Comparing Objects\IteratorsAndComparatorsExercises\obj\Debug\netcoreapp2.1\IteratorsAndComparatorsExercises.pdb

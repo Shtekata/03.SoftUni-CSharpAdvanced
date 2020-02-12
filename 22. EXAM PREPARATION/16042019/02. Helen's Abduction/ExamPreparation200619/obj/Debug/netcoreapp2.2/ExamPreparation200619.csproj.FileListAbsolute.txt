@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\22. EXAM PREPARATION\16042019\02. Helen's Abduction\ExamPreparation200619\bin\Debug\netcoreapp2.2\ExamPreparation200619.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\22. EXAM PREPARATION\16042019\02. Helen's Abduction\ExamPreparation200619\bin\Debug\netcoreapp2.2\ExamPreparation200619.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\22. EXAM PREPARATION\16042019\02. Helen's Abduction\ExamPreparation200619\bin\Debug\netcoreapp2.2\ExamPreparation200619.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\22. EXAM PREPARATION\16042019\02. Helen's Abduction\ExamPreparation200619\bin\Debug\netcoreapp2.2\ExamPreparation200619.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\22. EXAM PREPARATION\16042019\02. Helen's Abduction\ExamPreparation200619\bin\Debug\netcoreapp2.2\ExamPreparation200619.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\22. EXAM PREPARATION\16042019\02. Helen's Abduction\ExamPreparation200619\obj\Debug\netcoreapp2.2\ExamPreparation200619.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\22. EXAM PREPARATION\16042019\02. Helen's Abduction\ExamPreparation200619\obj\Debug\netcoreapp2.2\ExamPreparation200619.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\22. EXAM PREPARATION\16042019\02. Helen's Abduction\ExamPreparation200619\obj\Debug\netcoreapp2.2\ExamPreparation200619.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\22. EXAM PREPARATION\16042019\02. Helen's Abduction\ExamPreparation200619\obj\Debug\netcoreapp2.2\ExamPreparation200619.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\22. EXAM PREPARATION\16042019\02. Helen's Abduction\ExamPreparation200619\obj\Debug\netcoreapp2.2\ExamPreparation200619.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\22. EXAM PREPARATION\16042019\02. Helen's Abduction\ExamPreparation200619\obj\Debug\netcoreapp2.2\ExamPreparation200619.pdb

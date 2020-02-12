@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\18. EXERCISE - GENERICS\09. Custom Linked List\GenericExercise\bin\Debug\netcoreapp2.1\GenericExercise.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\18. EXERCISE - GENERICS\09. Custom Linked List\GenericExercise\bin\Debug\netcoreapp2.1\GenericExercise.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\18. EXERCISE - GENERICS\09. Custom Linked List\GenericExercise\bin\Debug\netcoreapp2.1\GenericExercise.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\18. EXERCISE - GENERICS\09. Custom Linked List\GenericExercise\bin\Debug\netcoreapp2.1\GenericExercise.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\18. EXERCISE - GENERICS\09. Custom Linked List\GenericExercise\bin\Debug\netcoreapp2.1\GenericExercise.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\18. EXERCISE - GENERICS\09. Custom Linked List\GenericExercise\obj\Debug\netcoreapp2.1\GenericExercise.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\18. EXERCISE - GENERICS\09. Custom Linked List\GenericExercise\obj\Debug\netcoreapp2.1\GenericExercise.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\18. EXERCISE - GENERICS\09. Custom Linked List\GenericExercise\obj\Debug\netcoreapp2.1\GenericExercise.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\18. EXERCISE - GENERICS\09. Custom Linked List\GenericExercise\obj\Debug\netcoreapp2.1\GenericExercise.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\18. EXERCISE - GENERICS\09. Custom Linked List\GenericExercise\obj\Debug\netcoreapp2.1\GenericExercise.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\18. EXERCISE - GENERICS\09. Custom Linked List\GenericExercise\obj\Debug\netcoreapp2.1\GenericExercise.pdb

@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\08. EXERCISE - SETS AND DICTIONARIES ADVANCED\SADA-E\07. The V-Logger\bin\Debug\netcoreapp2.2\07. The V-Logger.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\08. EXERCISE - SETS AND DICTIONARIES ADVANCED\SADA-E\07. The V-Logger\bin\Debug\netcoreapp2.2\07. The V-Logger.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\08. EXERCISE - SETS AND DICTIONARIES ADVANCED\SADA-E\07. The V-Logger\bin\Debug\netcoreapp2.2\07. The V-Logger.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\08. EXERCISE - SETS AND DICTIONARIES ADVANCED\SADA-E\07. The V-Logger\bin\Debug\netcoreapp2.2\07. The V-Logger.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\08. EXERCISE - SETS AND DICTIONARIES ADVANCED\SADA-E\07. The V-Logger\bin\Debug\netcoreapp2.2\07. The V-Logger.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\08. EXERCISE - SETS AND DICTIONARIES ADVANCED\SADA-E\07. The V-Logger\obj\Debug\netcoreapp2.2\07. The V-Logger.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\08. EXERCISE - SETS AND DICTIONARIES ADVANCED\SADA-E\07. The V-Logger\obj\Debug\netcoreapp2.2\07. The V-Logger.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\08. EXERCISE - SETS AND DICTIONARIES ADVANCED\SADA-E\07. The V-Logger\obj\Debug\netcoreapp2.2\07. The V-Logger.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\08. EXERCISE - SETS AND DICTIONARIES ADVANCED\SADA-E\07. The V-Logger\obj\Debug\netcoreapp2.2\07. The V-Logger.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\08. EXERCISE - SETS AND DICTIONARIES ADVANCED\SADA-E\07. The V-Logger\obj\Debug\netcoreapp2.2\07. The V-Logger.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\08. EXERCISE - SETS AND DICTIONARIES ADVANCED\SADA-E\07. The V-Logger\obj\Debug\netcoreapp2.2\07. The V-Logger.pdb

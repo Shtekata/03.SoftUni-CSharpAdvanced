@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\14. EXERCISE - DEFINING CLASSES\09. Pokemon Trainer\PokemonTrainer\bin\Debug\netcoreapp2.1\PokemonTrainer.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\14. EXERCISE - DEFINING CLASSES\09. Pokemon Trainer\PokemonTrainer\bin\Debug\netcoreapp2.1\PokemonTrainer.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\14. EXERCISE - DEFINING CLASSES\09. Pokemon Trainer\PokemonTrainer\bin\Debug\netcoreapp2.1\PokemonTrainer.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\14. EXERCISE - DEFINING CLASSES\09. Pokemon Trainer\PokemonTrainer\bin\Debug\netcoreapp2.1\PokemonTrainer.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\14. EXERCISE - DEFINING CLASSES\09. Pokemon Trainer\PokemonTrainer\bin\Debug\netcoreapp2.1\PokemonTrainer.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\14. EXERCISE - DEFINING CLASSES\09. Pokemon Trainer\PokemonTrainer\obj\Debug\netcoreapp2.1\PokemonTrainer.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\14. EXERCISE - DEFINING CLASSES\09. Pokemon Trainer\PokemonTrainer\obj\Debug\netcoreapp2.1\PokemonTrainer.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\14. EXERCISE - DEFINING CLASSES\09. Pokemon Trainer\PokemonTrainer\obj\Debug\netcoreapp2.1\PokemonTrainer.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\14. EXERCISE - DEFINING CLASSES\09. Pokemon Trainer\PokemonTrainer\obj\Debug\netcoreapp2.1\PokemonTrainer.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\14. EXERCISE - DEFINING CLASSES\09. Pokemon Trainer\PokemonTrainer\obj\Debug\netcoreapp2.1\PokemonTrainer.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\14. EXERCISE - DEFINING CLASSES\09. Pokemon Trainer\PokemonTrainer\obj\Debug\netcoreapp2.1\PokemonTrainer.pdb

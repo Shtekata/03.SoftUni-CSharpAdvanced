@@ -1,0 +1,10 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23062019Exam\SCAdvancedExam230619\02.SecondTask\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23062019Exam\SCAdvancedExam230619\02.SecondTask\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23062019Exam\SCAdvancedExam230619\02.SecondTask\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23062019Exam\SCAdvancedExam230619\02.SecondTask\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23062019Exam\SCAdvancedExam230619\02.SecondTask\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23062019Exam\SCAdvancedExam230619\02.SecondTask\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23062019Exam\SCAdvancedExam230619\02.SecondTask\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23062019Exam\SCAdvancedExam230619\02.SecondTask\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23062019Exam\SCAdvancedExam230619\02.SecondTask\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23062019Exam\SCAdvancedExam230619\02.SecondTask\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.pdb

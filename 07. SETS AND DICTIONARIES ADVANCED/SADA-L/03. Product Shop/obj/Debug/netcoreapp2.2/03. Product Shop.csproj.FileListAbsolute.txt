@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\07. SETS AND DICTIONARIES ADVANCED\SADA-L\03. Product Shop\bin\Debug\netcoreapp2.2\03. Product Shop.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\07. SETS AND DICTIONARIES ADVANCED\SADA-L\03. Product Shop\bin\Debug\netcoreapp2.2\03. Product Shop.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\07. SETS AND DICTIONARIES ADVANCED\SADA-L\03. Product Shop\bin\Debug\netcoreapp2.2\03. Product Shop.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\07. SETS AND DICTIONARIES ADVANCED\SADA-L\03. Product Shop\bin\Debug\netcoreapp2.2\03. Product Shop.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\07. SETS AND DICTIONARIES ADVANCED\SADA-L\03. Product Shop\bin\Debug\netcoreapp2.2\03. Product Shop.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\07. SETS AND DICTIONARIES ADVANCED\SADA-L\03. Product Shop\obj\Debug\netcoreapp2.2\03. Product Shop.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\07. SETS AND DICTIONARIES ADVANCED\SADA-L\03. Product Shop\obj\Debug\netcoreapp2.2\03. Product Shop.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\07. SETS AND DICTIONARIES ADVANCED\SADA-L\03. Product Shop\obj\Debug\netcoreapp2.2\03. Product Shop.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\07. SETS AND DICTIONARIES ADVANCED\SADA-L\03. Product Shop\obj\Debug\netcoreapp2.2\03. Product Shop.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\07. SETS AND DICTIONARIES ADVANCED\SADA-L\03. Product Shop\obj\Debug\netcoreapp2.2\03. Product Shop.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\07. SETS AND DICTIONARIES ADVANCED\SADA-L\03. Product Shop\obj\Debug\netcoreapp2.2\03. Product Shop.pdb

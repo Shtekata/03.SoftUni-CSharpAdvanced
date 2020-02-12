@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\01. Action Print\bin\Debug\netcoreapp2.2\01. Action Print.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\01. Action Print\bin\Debug\netcoreapp2.2\01. Action Print.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\01. Action Print\bin\Debug\netcoreapp2.2\01. Action Print.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\01. Action Print\bin\Debug\netcoreapp2.2\01. Action Print.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\01. Action Print\bin\Debug\netcoreapp2.2\01. Action Print.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\01. Action Print\obj\Debug\netcoreapp2.2\01. Action Print.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\01. Action Print\obj\Debug\netcoreapp2.2\01. Action Print.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\01. Action Print\obj\Debug\netcoreapp2.2\01. Action Print.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\01. Action Print\obj\Debug\netcoreapp2.2\01. Action Print.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\01. Action Print\obj\Debug\netcoreapp2.2\01. Action Print.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\01. Action Print\obj\Debug\netcoreapp2.2\01. Action Print.pdb

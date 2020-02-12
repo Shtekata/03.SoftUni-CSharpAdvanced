@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\03. Maximum and Minimum Element\bin\Debug\netcoreapp2.2\03. Maximum and Minimum Element.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\03. Maximum and Minimum Element\bin\Debug\netcoreapp2.2\03. Maximum and Minimum Element.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\03. Maximum and Minimum Element\bin\Debug\netcoreapp2.2\03. Maximum and Minimum Element.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\03. Maximum and Minimum Element\bin\Debug\netcoreapp2.2\03. Maximum and Minimum Element.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\03. Maximum and Minimum Element\bin\Debug\netcoreapp2.2\03. Maximum and Minimum Element.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\03. Maximum and Minimum Element\obj\Debug\netcoreapp2.2\03. Maximum and Minimum Element.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\03. Maximum and Minimum Element\obj\Debug\netcoreapp2.2\03. Maximum and Minimum Element.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\03. Maximum and Minimum Element\obj\Debug\netcoreapp2.2\03. Maximum and Minimum Element.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\03. Maximum and Minimum Element\obj\Debug\netcoreapp2.2\03. Maximum and Minimum Element.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\03. Maximum and Minimum Element\obj\Debug\netcoreapp2.2\03. Maximum and Minimum Element.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\03. Maximum and Minimum Element\obj\Debug\netcoreapp2.2\03. Maximum and Minimum Element.pdb

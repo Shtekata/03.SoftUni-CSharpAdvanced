@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\14. EXERCISE - DEFINING CLASSES\10. SoftUni Parking\DefiningClasses\bin\Debug\netcoreapp2.1\SoftUniParking.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\14. EXERCISE - DEFINING CLASSES\10. SoftUni Parking\DefiningClasses\bin\Debug\netcoreapp2.1\SoftUniParking.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\14. EXERCISE - DEFINING CLASSES\10. SoftUni Parking\DefiningClasses\bin\Debug\netcoreapp2.1\SoftUniParking.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\14. EXERCISE - DEFINING CLASSES\10. SoftUni Parking\DefiningClasses\bin\Debug\netcoreapp2.1\SoftUniParking.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\14. EXERCISE - DEFINING CLASSES\10. SoftUni Parking\DefiningClasses\bin\Debug\netcoreapp2.1\SoftUniParking.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\14. EXERCISE - DEFINING CLASSES\10. SoftUni Parking\DefiningClasses\obj\Debug\netcoreapp2.1\SoftUniParking.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\14. EXERCISE - DEFINING CLASSES\10. SoftUni Parking\DefiningClasses\obj\Debug\netcoreapp2.1\SoftUniParking.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\14. EXERCISE - DEFINING CLASSES\10. SoftUni Parking\DefiningClasses\obj\Debug\netcoreapp2.1\SoftUniParking.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\14. EXERCISE - DEFINING CLASSES\10. SoftUni Parking\DefiningClasses\obj\Debug\netcoreapp2.1\SoftUniParking.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\14. EXERCISE - DEFINING CLASSES\10. SoftUni Parking\DefiningClasses\obj\Debug\netcoreapp2.1\SoftUniParking.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\14. EXERCISE - DEFINING CLASSES\10. SoftUni Parking\DefiningClasses\obj\Debug\netcoreapp2.1\SoftUniParking.pdb

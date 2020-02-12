@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16. WORKSHOP\16. WORKSHOP\LaptopShop\bin\Debug\netcoreapp2.2\LaptopShop.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16. WORKSHOP\16. WORKSHOP\LaptopShop\bin\Debug\netcoreapp2.2\LaptopShop.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16. WORKSHOP\16. WORKSHOP\LaptopShop\bin\Debug\netcoreapp2.2\LaptopShop.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16. WORKSHOP\16. WORKSHOP\LaptopShop\bin\Debug\netcoreapp2.2\LaptopShop.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16. WORKSHOP\16. WORKSHOP\LaptopShop\bin\Debug\netcoreapp2.2\LaptopShop.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16. WORKSHOP\16. WORKSHOP\LaptopShop\obj\Debug\netcoreapp2.2\LaptopShop.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16. WORKSHOP\16. WORKSHOP\LaptopShop\obj\Debug\netcoreapp2.2\LaptopShop.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16. WORKSHOP\16. WORKSHOP\LaptopShop\obj\Debug\netcoreapp2.2\LaptopShop.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16. WORKSHOP\16. WORKSHOP\LaptopShop\obj\Debug\netcoreapp2.2\LaptopShop.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16. WORKSHOP\16. WORKSHOP\LaptopShop\obj\Debug\netcoreapp2.2\LaptopShop.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16. WORKSHOP\16. WORKSHOP\LaptopShop\obj\Debug\netcoreapp2.2\LaptopShop.pdb

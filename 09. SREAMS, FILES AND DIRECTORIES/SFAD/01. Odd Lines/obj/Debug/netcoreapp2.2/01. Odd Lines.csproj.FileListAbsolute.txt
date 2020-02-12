@@ -1,0 +1,12 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\09. SREAMS, FILES AND DIRECTORIES\SFAD\01. Odd Lines\bin\Debug\netcoreapp2.2\files\Input.txt
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\09. SREAMS, FILES AND DIRECTORIES\SFAD\01. Odd Lines\bin\Debug\netcoreapp2.2\01. Odd Lines.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\09. SREAMS, FILES AND DIRECTORIES\SFAD\01. Odd Lines\bin\Debug\netcoreapp2.2\01. Odd Lines.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\09. SREAMS, FILES AND DIRECTORIES\SFAD\01. Odd Lines\bin\Debug\netcoreapp2.2\01. Odd Lines.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\09. SREAMS, FILES AND DIRECTORIES\SFAD\01. Odd Lines\bin\Debug\netcoreapp2.2\01. Odd Lines.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\09. SREAMS, FILES AND DIRECTORIES\SFAD\01. Odd Lines\bin\Debug\netcoreapp2.2\01. Odd Lines.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\09. SREAMS, FILES AND DIRECTORIES\SFAD\01. Odd Lines\obj\Debug\netcoreapp2.2\01. Odd Lines.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\09. SREAMS, FILES AND DIRECTORIES\SFAD\01. Odd Lines\obj\Debug\netcoreapp2.2\01. Odd Lines.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\09. SREAMS, FILES AND DIRECTORIES\SFAD\01. Odd Lines\obj\Debug\netcoreapp2.2\01. Odd Lines.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\09. SREAMS, FILES AND DIRECTORIES\SFAD\01. Odd Lines\obj\Debug\netcoreapp2.2\01. Odd Lines.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\09. SREAMS, FILES AND DIRECTORIES\SFAD\01. Odd Lines\obj\Debug\netcoreapp2.2\01. Odd Lines.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\09. SREAMS, FILES AND DIRECTORIES\SFAD\01. Odd Lines\obj\Debug\netcoreapp2.2\01. Odd Lines.pdb

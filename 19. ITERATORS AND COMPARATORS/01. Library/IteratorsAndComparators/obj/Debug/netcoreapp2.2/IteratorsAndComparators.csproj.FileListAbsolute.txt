@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\19. ITERATORS AND COMPARATORS\01. Library\IteratorsAndComparators\bin\Debug\netcoreapp2.2\IteratorsAndComparators.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\19. ITERATORS AND COMPARATORS\01. Library\IteratorsAndComparators\bin\Debug\netcoreapp2.2\IteratorsAndComparators.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\19. ITERATORS AND COMPARATORS\01. Library\IteratorsAndComparators\bin\Debug\netcoreapp2.2\IteratorsAndComparators.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\19. ITERATORS AND COMPARATORS\01. Library\IteratorsAndComparators\bin\Debug\netcoreapp2.2\IteratorsAndComparators.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\19. ITERATORS AND COMPARATORS\01. Library\IteratorsAndComparators\bin\Debug\netcoreapp2.2\IteratorsAndComparators.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\19. ITERATORS AND COMPARATORS\01. Library\IteratorsAndComparators\obj\Debug\netcoreapp2.2\IteratorsAndComparators.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\19. ITERATORS AND COMPARATORS\01. Library\IteratorsAndComparators\obj\Debug\netcoreapp2.2\IteratorsAndComparators.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\19. ITERATORS AND COMPARATORS\01. Library\IteratorsAndComparators\obj\Debug\netcoreapp2.2\IteratorsAndComparators.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\19. ITERATORS AND COMPARATORS\01. Library\IteratorsAndComparators\obj\Debug\netcoreapp2.2\IteratorsAndComparators.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\19. ITERATORS AND COMPARATORS\01. Library\IteratorsAndComparators\obj\Debug\netcoreapp2.2\IteratorsAndComparators.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\19. ITERATORS AND COMPARATORS\01. Library\IteratorsAndComparators\obj\Debug\netcoreapp2.2\IteratorsAndComparators.pdb

@@ -1,0 +1,10 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\03. STACKS AND QUEUES\SAQ-L\05. Supermarket\bin\Debug\netcoreapp2.2\05. Supermarket.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\03. STACKS AND QUEUES\SAQ-L\05. Supermarket\bin\Debug\netcoreapp2.2\05. Supermarket.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\03. STACKS AND QUEUES\SAQ-L\05. Supermarket\bin\Debug\netcoreapp2.2\05. Supermarket.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\03. STACKS AND QUEUES\SAQ-L\05. Supermarket\bin\Debug\netcoreapp2.2\05. Supermarket.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\03. STACKS AND QUEUES\SAQ-L\05. Supermarket\bin\Debug\netcoreapp2.2\05. Supermarket.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\03. STACKS AND QUEUES\SAQ-L\05. Supermarket\obj\Debug\netcoreapp2.2\05. Supermarket.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\03. STACKS AND QUEUES\SAQ-L\05. Supermarket\obj\Debug\netcoreapp2.2\05. Supermarket.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\03. STACKS AND QUEUES\SAQ-L\05. Supermarket\obj\Debug\netcoreapp2.2\05. Supermarket.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\03. STACKS AND QUEUES\SAQ-L\05. Supermarket\obj\Debug\netcoreapp2.2\05. Supermarket.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\03. STACKS AND QUEUES\SAQ-L\05. Supermarket\obj\Debug\netcoreapp2.2\05. Supermarket.pdb

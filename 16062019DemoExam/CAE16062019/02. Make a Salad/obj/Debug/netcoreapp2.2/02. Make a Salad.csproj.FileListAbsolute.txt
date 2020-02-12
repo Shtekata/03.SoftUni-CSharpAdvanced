@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16062019DemoExam\CAE16062019\02. Make a Salad\bin\Debug\netcoreapp2.2\02. Make a Salad.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16062019DemoExam\CAE16062019\02. Make a Salad\bin\Debug\netcoreapp2.2\02. Make a Salad.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16062019DemoExam\CAE16062019\02. Make a Salad\bin\Debug\netcoreapp2.2\02. Make a Salad.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16062019DemoExam\CAE16062019\02. Make a Salad\bin\Debug\netcoreapp2.2\02. Make a Salad.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16062019DemoExam\CAE16062019\02. Make a Salad\bin\Debug\netcoreapp2.2\02. Make a Salad.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16062019DemoExam\CAE16062019\02. Make a Salad\obj\Debug\netcoreapp2.2\02. Make a Salad.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16062019DemoExam\CAE16062019\02. Make a Salad\obj\Debug\netcoreapp2.2\02. Make a Salad.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16062019DemoExam\CAE16062019\02. Make a Salad\obj\Debug\netcoreapp2.2\02. Make a Salad.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16062019DemoExam\CAE16062019\02. Make a Salad\obj\Debug\netcoreapp2.2\02. Make a Salad.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16062019DemoExam\CAE16062019\02. Make a Salad\obj\Debug\netcoreapp2.2\02. Make a Salad.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16062019DemoExam\CAE16062019\02. Make a Salad\obj\Debug\netcoreapp2.2\02. Make a Salad.pdb

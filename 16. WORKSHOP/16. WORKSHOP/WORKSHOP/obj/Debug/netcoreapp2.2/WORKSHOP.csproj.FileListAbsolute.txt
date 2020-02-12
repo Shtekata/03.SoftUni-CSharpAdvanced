@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16. WORKSHOP\16. WORKSHOP\WORKSHOP\bin\Debug\netcoreapp2.2\WORKSHOP.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16. WORKSHOP\16. WORKSHOP\WORKSHOP\bin\Debug\netcoreapp2.2\WORKSHOP.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16. WORKSHOP\16. WORKSHOP\WORKSHOP\bin\Debug\netcoreapp2.2\WORKSHOP.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16. WORKSHOP\16. WORKSHOP\WORKSHOP\bin\Debug\netcoreapp2.2\WORKSHOP.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16. WORKSHOP\16. WORKSHOP\WORKSHOP\bin\Debug\netcoreapp2.2\WORKSHOP.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16. WORKSHOP\16. WORKSHOP\WORKSHOP\obj\Debug\netcoreapp2.2\WORKSHOP.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16. WORKSHOP\16. WORKSHOP\WORKSHOP\obj\Debug\netcoreapp2.2\WORKSHOP.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16. WORKSHOP\16. WORKSHOP\WORKSHOP\obj\Debug\netcoreapp2.2\WORKSHOP.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16. WORKSHOP\16. WORKSHOP\WORKSHOP\obj\Debug\netcoreapp2.2\WORKSHOP.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16. WORKSHOP\16. WORKSHOP\WORKSHOP\obj\Debug\netcoreapp2.2\WORKSHOP.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16. WORKSHOP\16. WORKSHOP\WORKSHOP\obj\Debug\netcoreapp2.2\WORKSHOP.pdb

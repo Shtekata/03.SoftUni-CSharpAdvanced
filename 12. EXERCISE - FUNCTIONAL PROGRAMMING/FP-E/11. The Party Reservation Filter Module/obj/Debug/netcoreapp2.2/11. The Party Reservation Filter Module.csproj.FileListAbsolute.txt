@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\11. The Party Reservation Filter Module\bin\Debug\netcoreapp2.2\11. The Party Reservation Filter Module.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\11. The Party Reservation Filter Module\bin\Debug\netcoreapp2.2\11. The Party Reservation Filter Module.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\11. The Party Reservation Filter Module\bin\Debug\netcoreapp2.2\11. The Party Reservation Filter Module.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\11. The Party Reservation Filter Module\bin\Debug\netcoreapp2.2\11. The Party Reservation Filter Module.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\11. The Party Reservation Filter Module\bin\Debug\netcoreapp2.2\11. The Party Reservation Filter Module.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\11. The Party Reservation Filter Module\obj\Debug\netcoreapp2.2\11. The Party Reservation Filter Module.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\11. The Party Reservation Filter Module\obj\Debug\netcoreapp2.2\11. The Party Reservation Filter Module.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\11. The Party Reservation Filter Module\obj\Debug\netcoreapp2.2\11. The Party Reservation Filter Module.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\11. The Party Reservation Filter Module\obj\Debug\netcoreapp2.2\11. The Party Reservation Filter Module.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\11. The Party Reservation Filter Module\obj\Debug\netcoreapp2.2\11. The Party Reservation Filter Module.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\11. The Party Reservation Filter Module\obj\Debug\netcoreapp2.2\11. The Party Reservation Filter Module.pdb

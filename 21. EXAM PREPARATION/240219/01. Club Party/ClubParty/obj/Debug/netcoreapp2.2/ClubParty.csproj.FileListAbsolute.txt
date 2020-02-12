@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\21. EXAM PREPARATION\240219\01. Club Party\ClubParty\bin\Debug\netcoreapp2.2\ClubParty.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\21. EXAM PREPARATION\240219\01. Club Party\ClubParty\bin\Debug\netcoreapp2.2\ClubParty.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\21. EXAM PREPARATION\240219\01. Club Party\ClubParty\bin\Debug\netcoreapp2.2\ClubParty.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\21. EXAM PREPARATION\240219\01. Club Party\ClubParty\bin\Debug\netcoreapp2.2\ClubParty.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\21. EXAM PREPARATION\240219\01. Club Party\ClubParty\bin\Debug\netcoreapp2.2\ClubParty.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\21. EXAM PREPARATION\240219\01. Club Party\ClubParty\obj\Debug\netcoreapp2.2\ClubParty.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\21. EXAM PREPARATION\240219\01. Club Party\ClubParty\obj\Debug\netcoreapp2.2\ClubParty.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\21. EXAM PREPARATION\240219\01. Club Party\ClubParty\obj\Debug\netcoreapp2.2\ClubParty.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\21. EXAM PREPARATION\240219\01. Club Party\ClubParty\obj\Debug\netcoreapp2.2\ClubParty.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\21. EXAM PREPARATION\240219\01. Club Party\ClubParty\obj\Debug\netcoreapp2.2\ClubParty.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\21. EXAM PREPARATION\240219\01. Club Party\ClubParty\obj\Debug\netcoreapp2.2\ClubParty.pdb

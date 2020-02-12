@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WORKSHOP", "WORKSHOP\WORKSHOP.csproj", "{282A7384-5089-400C-A8B0-519AD419D5A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaptopShop", "LaptopShop\LaptopShop.csproj", "{B3EE725C-E4A2-4C27-A0AB-D1C2511D2A61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{282A7384-5089-400C-A8B0-519AD419D5A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{282A7384-5089-400C-A8B0-519AD419D5A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{282A7384-5089-400C-A8B0-519AD419D5A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{282A7384-5089-400C-A8B0-519AD419D5A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3EE725C-E4A2-4C27-A0AB-D1C2511D2A61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3EE725C-E4A2-4C27-A0AB-D1C2511D2A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3EE725C-E4A2-4C27-A0AB-D1C2511D2A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3EE725C-E4A2-4C27-A0AB-D1C2511D2A61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D56222E-552B-45B1-B73F-B904F16EDE34}
+	EndGlobalSection
+EndGlobal

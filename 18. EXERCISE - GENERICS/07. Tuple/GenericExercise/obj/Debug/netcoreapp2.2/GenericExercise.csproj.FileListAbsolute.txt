@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\18. EXERCISE - GENERICS\07. Tuple\GenericExercise\bin\Debug\netcoreapp2.2\GenericExercise.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\18. EXERCISE - GENERICS\07. Tuple\GenericExercise\bin\Debug\netcoreapp2.2\GenericExercise.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\18. EXERCISE - GENERICS\07. Tuple\GenericExercise\bin\Debug\netcoreapp2.2\GenericExercise.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\18. EXERCISE - GENERICS\07. Tuple\GenericExercise\bin\Debug\netcoreapp2.2\GenericExercise.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\18. EXERCISE - GENERICS\07. Tuple\GenericExercise\bin\Debug\netcoreapp2.2\GenericExercise.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\18. EXERCISE - GENERICS\07. Tuple\GenericExercise\obj\Debug\netcoreapp2.2\GenericExercise.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\18. EXERCISE - GENERICS\07. Tuple\GenericExercise\obj\Debug\netcoreapp2.2\GenericExercise.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\18. EXERCISE - GENERICS\07. Tuple\GenericExercise\obj\Debug\netcoreapp2.2\GenericExercise.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\18. EXERCISE - GENERICS\07. Tuple\GenericExercise\obj\Debug\netcoreapp2.2\GenericExercise.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\18. EXERCISE - GENERICS\07. Tuple\GenericExercise\obj\Debug\netcoreapp2.2\GenericExercise.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\18. EXERCISE - GENERICS\07. Tuple\GenericExercise\obj\Debug\netcoreapp2.2\GenericExercise.pdb

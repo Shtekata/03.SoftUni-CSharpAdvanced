@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\03. STACKS AND QUEUES\SAQ-L\06. Hot Potato\bin\Debug\netcoreapp2.2\06. Hot Potato.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\03. STACKS AND QUEUES\SAQ-L\06. Hot Potato\bin\Debug\netcoreapp2.2\06. Hot Potato.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\03. STACKS AND QUEUES\SAQ-L\06. Hot Potato\bin\Debug\netcoreapp2.2\06. Hot Potato.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\03. STACKS AND QUEUES\SAQ-L\06. Hot Potato\bin\Debug\netcoreapp2.2\06. Hot Potato.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\03. STACKS AND QUEUES\SAQ-L\06. Hot Potato\bin\Debug\netcoreapp2.2\06. Hot Potato.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\03. STACKS AND QUEUES\SAQ-L\06. Hot Potato\obj\Debug\netcoreapp2.2\06. Hot Potato.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\03. STACKS AND QUEUES\SAQ-L\06. Hot Potato\obj\Debug\netcoreapp2.2\06. Hot Potato.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\03. STACKS AND QUEUES\SAQ-L\06. Hot Potato\obj\Debug\netcoreapp2.2\06. Hot Potato.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\03. STACKS AND QUEUES\SAQ-L\06. Hot Potato\obj\Debug\netcoreapp2.2\06. Hot Potato.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\03. STACKS AND QUEUES\SAQ-L\06. Hot Potato\obj\Debug\netcoreapp2.2\06. Hot Potato.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\03. STACKS AND QUEUES\SAQ-L\06. Hot Potato\obj\Debug\netcoreapp2.2\06. Hot Potato.pdb

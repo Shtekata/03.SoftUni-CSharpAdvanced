@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\03. STACKS AND QUEUES\SAQ-L\08. Traffic Jam\bin\Debug\netcoreapp2.2\08. Traffic Jam.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\03. STACKS AND QUEUES\SAQ-L\08. Traffic Jam\bin\Debug\netcoreapp2.2\08. Traffic Jam.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\03. STACKS AND QUEUES\SAQ-L\08. Traffic Jam\bin\Debug\netcoreapp2.2\08. Traffic Jam.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\03. STACKS AND QUEUES\SAQ-L\08. Traffic Jam\bin\Debug\netcoreapp2.2\08. Traffic Jam.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\03. STACKS AND QUEUES\SAQ-L\08. Traffic Jam\bin\Debug\netcoreapp2.2\08. Traffic Jam.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\03. STACKS AND QUEUES\SAQ-L\08. Traffic Jam\obj\Debug\netcoreapp2.2\08. Traffic Jam.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\03. STACKS AND QUEUES\SAQ-L\08. Traffic Jam\obj\Debug\netcoreapp2.2\08. Traffic Jam.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\03. STACKS AND QUEUES\SAQ-L\08. Traffic Jam\obj\Debug\netcoreapp2.2\08. Traffic Jam.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\03. STACKS AND QUEUES\SAQ-L\08. Traffic Jam\obj\Debug\netcoreapp2.2\08. Traffic Jam.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\03. STACKS AND QUEUES\SAQ-L\08. Traffic Jam\obj\Debug\netcoreapp2.2\08. Traffic Jam.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\03. STACKS AND QUEUES\SAQ-L\08. Traffic Jam\obj\Debug\netcoreapp2.2\08. Traffic Jam.pdb

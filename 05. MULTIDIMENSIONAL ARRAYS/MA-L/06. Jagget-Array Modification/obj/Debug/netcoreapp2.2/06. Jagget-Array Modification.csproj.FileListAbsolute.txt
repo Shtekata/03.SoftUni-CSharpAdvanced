@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\05. MULTIDIMENSIONAL ARRAYS\MA-L\06. Jagget-Array Modification\bin\Debug\netcoreapp2.2\06. Jagget-Array Modification.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\05. MULTIDIMENSIONAL ARRAYS\MA-L\06. Jagget-Array Modification\bin\Debug\netcoreapp2.2\06. Jagget-Array Modification.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\05. MULTIDIMENSIONAL ARRAYS\MA-L\06. Jagget-Array Modification\bin\Debug\netcoreapp2.2\06. Jagget-Array Modification.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\05. MULTIDIMENSIONAL ARRAYS\MA-L\06. Jagget-Array Modification\bin\Debug\netcoreapp2.2\06. Jagget-Array Modification.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\05. MULTIDIMENSIONAL ARRAYS\MA-L\06. Jagget-Array Modification\bin\Debug\netcoreapp2.2\06. Jagget-Array Modification.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\05. MULTIDIMENSIONAL ARRAYS\MA-L\06. Jagget-Array Modification\obj\Debug\netcoreapp2.2\06. Jagget-Array Modification.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\05. MULTIDIMENSIONAL ARRAYS\MA-L\06. Jagget-Array Modification\obj\Debug\netcoreapp2.2\06. Jagget-Array Modification.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\05. MULTIDIMENSIONAL ARRAYS\MA-L\06. Jagget-Array Modification\obj\Debug\netcoreapp2.2\06. Jagget-Array Modification.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\05. MULTIDIMENSIONAL ARRAYS\MA-L\06. Jagget-Array Modification\obj\Debug\netcoreapp2.2\06. Jagget-Array Modification.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\05. MULTIDIMENSIONAL ARRAYS\MA-L\06. Jagget-Array Modification\obj\Debug\netcoreapp2.2\06. Jagget-Array Modification.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\05. MULTIDIMENSIONAL ARRAYS\MA-L\06. Jagget-Array Modification\obj\Debug\netcoreapp2.2\06. Jagget-Array Modification.pdb

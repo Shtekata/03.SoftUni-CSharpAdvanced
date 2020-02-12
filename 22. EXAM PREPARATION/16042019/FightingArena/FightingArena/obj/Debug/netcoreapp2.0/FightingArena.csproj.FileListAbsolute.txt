@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\22. EXAM PREPARATION\16042019\FightingArena\FightingArena\bin\Debug\netcoreapp2.0\FightingArena.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\22. EXAM PREPARATION\16042019\FightingArena\FightingArena\bin\Debug\netcoreapp2.0\FightingArena.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\22. EXAM PREPARATION\16042019\FightingArena\FightingArena\bin\Debug\netcoreapp2.0\FightingArena.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\22. EXAM PREPARATION\16042019\FightingArena\FightingArena\bin\Debug\netcoreapp2.0\FightingArena.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\22. EXAM PREPARATION\16042019\FightingArena\FightingArena\bin\Debug\netcoreapp2.0\FightingArena.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\22. EXAM PREPARATION\16042019\FightingArena\FightingArena\obj\Debug\netcoreapp2.0\FightingArena.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\22. EXAM PREPARATION\16042019\FightingArena\FightingArena\obj\Debug\netcoreapp2.0\FightingArena.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\22. EXAM PREPARATION\16042019\FightingArena\FightingArena\obj\Debug\netcoreapp2.0\FightingArena.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\22. EXAM PREPARATION\16042019\FightingArena\FightingArena\obj\Debug\netcoreapp2.0\FightingArena.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\22. EXAM PREPARATION\16042019\FightingArena\FightingArena\obj\Debug\netcoreapp2.0\FightingArena.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\22. EXAM PREPARATION\16042019\FightingArena\FightingArena\obj\Debug\netcoreapp2.0\FightingArena.pdb

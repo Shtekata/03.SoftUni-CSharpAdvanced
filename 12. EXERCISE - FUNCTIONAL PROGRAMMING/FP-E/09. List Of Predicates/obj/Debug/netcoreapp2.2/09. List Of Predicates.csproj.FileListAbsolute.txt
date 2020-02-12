@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\09. List Of Predicates\bin\Debug\netcoreapp2.2\09. List Of Predicates.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\09. List Of Predicates\bin\Debug\netcoreapp2.2\09. List Of Predicates.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\09. List Of Predicates\bin\Debug\netcoreapp2.2\09. List Of Predicates.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\09. List Of Predicates\bin\Debug\netcoreapp2.2\09. List Of Predicates.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\09. List Of Predicates\bin\Debug\netcoreapp2.2\09. List Of Predicates.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\09. List Of Predicates\obj\Debug\netcoreapp2.2\09. List Of Predicates.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\09. List Of Predicates\obj\Debug\netcoreapp2.2\09. List Of Predicates.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\09. List Of Predicates\obj\Debug\netcoreapp2.2\09. List Of Predicates.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\09. List Of Predicates\obj\Debug\netcoreapp2.2\09. List Of Predicates.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\09. List Of Predicates\obj\Debug\netcoreapp2.2\09. List Of Predicates.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\09. List Of Predicates\obj\Debug\netcoreapp2.2\09. List Of Predicates.pdb

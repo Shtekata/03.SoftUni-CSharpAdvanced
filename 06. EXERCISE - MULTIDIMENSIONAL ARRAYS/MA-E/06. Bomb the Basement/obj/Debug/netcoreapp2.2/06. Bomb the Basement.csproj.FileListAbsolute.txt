@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\06. Bomb the Basement\bin\Debug\netcoreapp2.2\06. Bomb the Basement.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\06. Bomb the Basement\bin\Debug\netcoreapp2.2\06. Bomb the Basement.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\06. Bomb the Basement\bin\Debug\netcoreapp2.2\06. Bomb the Basement.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\06. Bomb the Basement\bin\Debug\netcoreapp2.2\06. Bomb the Basement.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\06. Bomb the Basement\bin\Debug\netcoreapp2.2\06. Bomb the Basement.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\06. Bomb the Basement\obj\Debug\netcoreapp2.2\06. Bomb the Basement.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\06. Bomb the Basement\obj\Debug\netcoreapp2.2\06. Bomb the Basement.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\06. Bomb the Basement\obj\Debug\netcoreapp2.2\06. Bomb the Basement.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\06. Bomb the Basement\obj\Debug\netcoreapp2.2\06. Bomb the Basement.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\06. Bomb the Basement\obj\Debug\netcoreapp2.2\06. Bomb the Basement.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\06. Bomb the Basement\obj\Debug\netcoreapp2.2\06. Bomb the Basement.pdb

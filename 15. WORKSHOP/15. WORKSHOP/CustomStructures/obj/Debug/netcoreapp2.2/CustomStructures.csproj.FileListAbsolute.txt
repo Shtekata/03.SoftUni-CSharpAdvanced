@@ -1,0 +1,12 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\15. WORKSHOP\15. WORKSHOP\CustomStructures\bin\Debug\netcoreapp2.2\CustomStructures.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\15. WORKSHOP\15. WORKSHOP\CustomStructures\bin\Debug\netcoreapp2.2\CustomStructures.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\15. WORKSHOP\15. WORKSHOP\CustomStructures\bin\Debug\netcoreapp2.2\CustomStructures.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\15. WORKSHOP\15. WORKSHOP\CustomStructures\bin\Debug\netcoreapp2.2\CustomStructures.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\15. WORKSHOP\15. WORKSHOP\CustomStructures\bin\Debug\netcoreapp2.2\CustomStructures.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\15. WORKSHOP\15. WORKSHOP\CustomStructures\bin\Debug\netcoreapp2.2\CustomStructures.xml
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\15. WORKSHOP\15. WORKSHOP\CustomStructures\obj\Debug\netcoreapp2.2\CustomStructures.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\15. WORKSHOP\15. WORKSHOP\CustomStructures\obj\Debug\netcoreapp2.2\CustomStructures.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\15. WORKSHOP\15. WORKSHOP\CustomStructures\obj\Debug\netcoreapp2.2\CustomStructures.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\15. WORKSHOP\15. WORKSHOP\CustomStructures\obj\Debug\netcoreapp2.2\CustomStructures.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\15. WORKSHOP\15. WORKSHOP\CustomStructures\obj\Debug\netcoreapp2.2\CustomStructures.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\15. WORKSHOP\15. WORKSHOP\CustomStructures\obj\Debug\netcoreapp2.2\CustomStructures.pdb

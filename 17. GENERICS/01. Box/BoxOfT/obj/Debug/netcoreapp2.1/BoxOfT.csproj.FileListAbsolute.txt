@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\17. GENERICS\01. Box\BoxOfT\bin\Debug\netcoreapp2.1\BoxOfT.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\17. GENERICS\01. Box\BoxOfT\bin\Debug\netcoreapp2.1\BoxOfT.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\17. GENERICS\01. Box\BoxOfT\bin\Debug\netcoreapp2.1\BoxOfT.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\17. GENERICS\01. Box\BoxOfT\bin\Debug\netcoreapp2.1\BoxOfT.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\17. GENERICS\01. Box\BoxOfT\bin\Debug\netcoreapp2.1\BoxOfT.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\17. GENERICS\01. Box\BoxOfT\obj\Debug\netcoreapp2.1\BoxOfT.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\17. GENERICS\01. Box\BoxOfT\obj\Debug\netcoreapp2.1\BoxOfT.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\17. GENERICS\01. Box\BoxOfT\obj\Debug\netcoreapp2.1\BoxOfT.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\17. GENERICS\01. Box\BoxOfT\obj\Debug\netcoreapp2.1\BoxOfT.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\17. GENERICS\01. Box\BoxOfT\obj\Debug\netcoreapp2.1\BoxOfT.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\17. GENERICS\01. Box\BoxOfT\obj\Debug\netcoreapp2.1\BoxOfT.csprojAssemblyReference.cache

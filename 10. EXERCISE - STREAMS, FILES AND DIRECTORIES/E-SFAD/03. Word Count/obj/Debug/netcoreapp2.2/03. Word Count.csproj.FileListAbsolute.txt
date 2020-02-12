@@ -1,0 +1,13 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\03. Word Count\bin\Debug\netcoreapp2.2\text.txt
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\03. Word Count\bin\Debug\netcoreapp2.2\words.txt
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\03. Word Count\bin\Debug\netcoreapp2.2\03. Word Count.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\03. Word Count\bin\Debug\netcoreapp2.2\03. Word Count.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\03. Word Count\bin\Debug\netcoreapp2.2\03. Word Count.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\03. Word Count\bin\Debug\netcoreapp2.2\03. Word Count.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\03. Word Count\bin\Debug\netcoreapp2.2\03. Word Count.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\03. Word Count\obj\Debug\netcoreapp2.2\03. Word Count.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\03. Word Count\obj\Debug\netcoreapp2.2\03. Word Count.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\03. Word Count\obj\Debug\netcoreapp2.2\03. Word Count.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\03. Word Count\obj\Debug\netcoreapp2.2\03. Word Count.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\03. Word Count\obj\Debug\netcoreapp2.2\03. Word Count.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\03. Word Count\obj\Debug\netcoreapp2.2\03. Word Count.csprojAssemblyReference.cache

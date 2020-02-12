@@ -1,0 +1,12 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\09. SREAMS, FILES AND DIRECTORIES\SFAD\05. Slice a File\bin\Debug\netcoreapp2.2\05. Slice a File.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\09. SREAMS, FILES AND DIRECTORIES\SFAD\05. Slice a File\bin\Debug\netcoreapp2.2\05. Slice a File.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\09. SREAMS, FILES AND DIRECTORIES\SFAD\05. Slice a File\bin\Debug\netcoreapp2.2\05. Slice a File.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\09. SREAMS, FILES AND DIRECTORIES\SFAD\05. Slice a File\bin\Debug\netcoreapp2.2\05. Slice a File.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\09. SREAMS, FILES AND DIRECTORIES\SFAD\05. Slice a File\bin\Debug\netcoreapp2.2\05. Slice a File.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\09. SREAMS, FILES AND DIRECTORIES\SFAD\05. Slice a File\obj\Debug\netcoreapp2.2\05. Slice a File.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\09. SREAMS, FILES AND DIRECTORIES\SFAD\05. Slice a File\obj\Debug\netcoreapp2.2\05. Slice a File.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\09. SREAMS, FILES AND DIRECTORIES\SFAD\05. Slice a File\obj\Debug\netcoreapp2.2\05. Slice a File.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\09. SREAMS, FILES AND DIRECTORIES\SFAD\05. Slice a File\obj\Debug\netcoreapp2.2\05. Slice a File.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\09. SREAMS, FILES AND DIRECTORIES\SFAD\05. Slice a File\obj\Debug\netcoreapp2.2\05. Slice a File.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\09. SREAMS, FILES AND DIRECTORIES\SFAD\05. Slice a File\obj\Debug\netcoreapp2.2\05. Slice a File.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\09. SREAMS, FILES AND DIRECTORIES\SFAD\05. Slice a File\bin\Debug\netcoreapp2.2\Files\sliceMe.txt

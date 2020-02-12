@@ -1,0 +1,12 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\04. Copy Binary File\bin\Debug\netcoreapp2.2\copyMe.png
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\04. Copy Binary File\bin\Debug\netcoreapp2.2\04. Copy Binary File.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\04. Copy Binary File\bin\Debug\netcoreapp2.2\04. Copy Binary File.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\04. Copy Binary File\bin\Debug\netcoreapp2.2\04. Copy Binary File.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\04. Copy Binary File\bin\Debug\netcoreapp2.2\04. Copy Binary File.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\04. Copy Binary File\bin\Debug\netcoreapp2.2\04. Copy Binary File.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\04. Copy Binary File\obj\Debug\netcoreapp2.2\04. Copy Binary File.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\04. Copy Binary File\obj\Debug\netcoreapp2.2\04. Copy Binary File.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\04. Copy Binary File\obj\Debug\netcoreapp2.2\04. Copy Binary File.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\04. Copy Binary File\obj\Debug\netcoreapp2.2\04. Copy Binary File.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\04. Copy Binary File\obj\Debug\netcoreapp2.2\04. Copy Binary File.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\04. Copy Binary File\obj\Debug\netcoreapp2.2\04. Copy Binary File.pdb

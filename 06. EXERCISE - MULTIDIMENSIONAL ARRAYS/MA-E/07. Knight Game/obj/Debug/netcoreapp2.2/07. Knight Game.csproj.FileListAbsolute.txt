@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\07. Knight Game\bin\Debug\netcoreapp2.2\07. Knight Game.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\07. Knight Game\bin\Debug\netcoreapp2.2\07. Knight Game.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\07. Knight Game\bin\Debug\netcoreapp2.2\07. Knight Game.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\07. Knight Game\bin\Debug\netcoreapp2.2\07. Knight Game.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\07. Knight Game\bin\Debug\netcoreapp2.2\07. Knight Game.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\07. Knight Game\obj\Debug\netcoreapp2.2\07. Knight Game.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\07. Knight Game\obj\Debug\netcoreapp2.2\07. Knight Game.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\07. Knight Game\obj\Debug\netcoreapp2.2\07. Knight Game.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\07. Knight Game\obj\Debug\netcoreapp2.2\07. Knight Game.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\07. Knight Game\obj\Debug\netcoreapp2.2\07. Knight Game.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\07. Knight Game\obj\Debug\netcoreapp2.2\07. Knight Game.pdb

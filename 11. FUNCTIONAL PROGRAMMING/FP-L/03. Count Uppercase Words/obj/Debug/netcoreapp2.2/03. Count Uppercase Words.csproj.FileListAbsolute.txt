@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\11. FUNCTIONAL PROGRAMMING\FP-L\03. Count Uppercase Words\obj\Debug\netcoreapp2.2\03. Count Uppercase Words.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\11. FUNCTIONAL PROGRAMMING\FP-L\03. Count Uppercase Words\obj\Debug\netcoreapp2.2\03. Count Uppercase Words.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\11. FUNCTIONAL PROGRAMMING\FP-L\03. Count Uppercase Words\obj\Debug\netcoreapp2.2\03. Count Uppercase Words.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\11. FUNCTIONAL PROGRAMMING\FP-L\03. Count Uppercase Words\obj\Debug\netcoreapp2.2\03. Count Uppercase Words.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\11. FUNCTIONAL PROGRAMMING\FP-L\03. Count Uppercase Words\bin\Debug\netcoreapp2.2\03. Count Uppercase Words.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\11. FUNCTIONAL PROGRAMMING\FP-L\03. Count Uppercase Words\bin\Debug\netcoreapp2.2\03. Count Uppercase Words.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\11. FUNCTIONAL PROGRAMMING\FP-L\03. Count Uppercase Words\bin\Debug\netcoreapp2.2\03. Count Uppercase Words.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\11. FUNCTIONAL PROGRAMMING\FP-L\03. Count Uppercase Words\bin\Debug\netcoreapp2.2\03. Count Uppercase Words.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\11. FUNCTIONAL PROGRAMMING\FP-L\03. Count Uppercase Words\bin\Debug\netcoreapp2.2\03. Count Uppercase Words.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\11. FUNCTIONAL PROGRAMMING\FP-L\03. Count Uppercase Words\obj\Debug\netcoreapp2.2\03. Count Uppercase Words.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\11. FUNCTIONAL PROGRAMMING\FP-L\03. Count Uppercase Words\obj\Debug\netcoreapp2.2\03. Count Uppercase Words.pdb

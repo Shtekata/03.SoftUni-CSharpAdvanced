@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\05. MULTIDIMENSIONAL ARRAYS\MA-L\02. Sum Matrix Columns\bin\Debug\netcoreapp2.2\02. Sum Matrix Columns.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\05. MULTIDIMENSIONAL ARRAYS\MA-L\02. Sum Matrix Columns\bin\Debug\netcoreapp2.2\02. Sum Matrix Columns.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\05. MULTIDIMENSIONAL ARRAYS\MA-L\02. Sum Matrix Columns\bin\Debug\netcoreapp2.2\02. Sum Matrix Columns.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\05. MULTIDIMENSIONAL ARRAYS\MA-L\02. Sum Matrix Columns\bin\Debug\netcoreapp2.2\02. Sum Matrix Columns.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\05. MULTIDIMENSIONAL ARRAYS\MA-L\02. Sum Matrix Columns\bin\Debug\netcoreapp2.2\02. Sum Matrix Columns.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\05. MULTIDIMENSIONAL ARRAYS\MA-L\02. Sum Matrix Columns\obj\Debug\netcoreapp2.2\02. Sum Matrix Columns.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\05. MULTIDIMENSIONAL ARRAYS\MA-L\02. Sum Matrix Columns\obj\Debug\netcoreapp2.2\02. Sum Matrix Columns.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\05. MULTIDIMENSIONAL ARRAYS\MA-L\02. Sum Matrix Columns\obj\Debug\netcoreapp2.2\02. Sum Matrix Columns.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\05. MULTIDIMENSIONAL ARRAYS\MA-L\02. Sum Matrix Columns\obj\Debug\netcoreapp2.2\02. Sum Matrix Columns.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\05. MULTIDIMENSIONAL ARRAYS\MA-L\02. Sum Matrix Columns\obj\Debug\netcoreapp2.2\02. Sum Matrix Columns.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\05. MULTIDIMENSIONAL ARRAYS\MA-L\02. Sum Matrix Columns\obj\Debug\netcoreapp2.2\02. Sum Matrix Columns.pdb

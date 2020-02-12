@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\14. EXERCISE - DEFINING CLASSES\06. Speed Racing\SpeedRacing\bin\Debug\netcoreapp2.2\SpeedRacing.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\14. EXERCISE - DEFINING CLASSES\06. Speed Racing\SpeedRacing\bin\Debug\netcoreapp2.2\SpeedRacing.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\14. EXERCISE - DEFINING CLASSES\06. Speed Racing\SpeedRacing\bin\Debug\netcoreapp2.2\SpeedRacing.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\14. EXERCISE - DEFINING CLASSES\06. Speed Racing\SpeedRacing\bin\Debug\netcoreapp2.2\SpeedRacing.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\14. EXERCISE - DEFINING CLASSES\06. Speed Racing\SpeedRacing\bin\Debug\netcoreapp2.2\SpeedRacing.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\14. EXERCISE - DEFINING CLASSES\06. Speed Racing\SpeedRacing\obj\Debug\netcoreapp2.2\SpeedRacing.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\14. EXERCISE - DEFINING CLASSES\06. Speed Racing\SpeedRacing\obj\Debug\netcoreapp2.2\SpeedRacing.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\14. EXERCISE - DEFINING CLASSES\06. Speed Racing\SpeedRacing\obj\Debug\netcoreapp2.2\SpeedRacing.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\14. EXERCISE - DEFINING CLASSES\06. Speed Racing\SpeedRacing\obj\Debug\netcoreapp2.2\SpeedRacing.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\14. EXERCISE - DEFINING CLASSES\06. Speed Racing\SpeedRacing\obj\Debug\netcoreapp2.2\SpeedRacing.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\14. EXERCISE - DEFINING CLASSES\06. Speed Racing\SpeedRacing\obj\Debug\netcoreapp2.2\SpeedRacing.pdb

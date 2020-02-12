@@ -1,0 +1,19 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\09. SREAMS, FILES AND DIRECTORIES\SFAD\06. Folder Size\bin\Debug\netcoreapp2.2\06. Folder Size.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\09. SREAMS, FILES AND DIRECTORIES\SFAD\06. Folder Size\bin\Debug\netcoreapp2.2\06. Folder Size.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\09. SREAMS, FILES AND DIRECTORIES\SFAD\06. Folder Size\bin\Debug\netcoreapp2.2\06. Folder Size.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\09. SREAMS, FILES AND DIRECTORIES\SFAD\06. Folder Size\bin\Debug\netcoreapp2.2\06. Folder Size.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\09. SREAMS, FILES AND DIRECTORIES\SFAD\06. Folder Size\bin\Debug\netcoreapp2.2\06. Folder Size.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\09. SREAMS, FILES AND DIRECTORIES\SFAD\06. Folder Size\obj\Debug\netcoreapp2.2\06. Folder Size.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\09. SREAMS, FILES AND DIRECTORIES\SFAD\06. Folder Size\obj\Debug\netcoreapp2.2\06. Folder Size.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\09. SREAMS, FILES AND DIRECTORIES\SFAD\06. Folder Size\obj\Debug\netcoreapp2.2\06. Folder Size.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\09. SREAMS, FILES AND DIRECTORIES\SFAD\06. Folder Size\obj\Debug\netcoreapp2.2\06. Folder Size.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\09. SREAMS, FILES AND DIRECTORIES\SFAD\06. Folder Size\obj\Debug\netcoreapp2.2\06. Folder Size.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\09. SREAMS, FILES AND DIRECTORIES\SFAD\06. Folder Size\obj\Debug\netcoreapp2.2\06. Folder Size.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\09. SREAMS, FILES AND DIRECTORIES\SFAD\06. Folder Size\bin\Debug\netcoreapp2.2\TestFolder\1. Java-Advanced-Stacks-and-Queues-Exercises.docx
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\09. SREAMS, FILES AND DIRECTORIES\SFAD\06. Folder Size\bin\Debug\netcoreapp2.2\TestFolder\1. Java-Advanced-Stacks-and-Queues-Lab.docx
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\09. SREAMS, FILES AND DIRECTORIES\SFAD\06. Folder Size\bin\Debug\netcoreapp2.2\TestFolder\1. Java-Advanced-Stacks-and-Queues.pptx
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\09. SREAMS, FILES AND DIRECTORIES\SFAD\06. Folder Size\bin\Debug\netcoreapp2.2\TestFolder\2. Simple-Calculations-Exercises.docx
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\09. SREAMS, FILES AND DIRECTORIES\SFAD\06. Folder Size\bin\Debug\netcoreapp2.2\TestFolder\TestFolder2\1. Java-Advanced-Stacks-and-Queues-Exercises.docx
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\09. SREAMS, FILES AND DIRECTORIES\SFAD\06. Folder Size\bin\Debug\netcoreapp2.2\TestFolder\TestFolder2\1. Java-Advanced-Stacks-and-Queues-Lab.docx
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\09. SREAMS, FILES AND DIRECTORIES\SFAD\06. Folder Size\bin\Debug\netcoreapp2.2\TestFolder\TestFolder2\1. Java-Advanced-Stacks-and-Queues.pptx
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\09. SREAMS, FILES AND DIRECTORIES\SFAD\06. Folder Size\bin\Debug\netcoreapp2.2\TestFolder\TestFolder2\2. Simple-Calculations-Exercises.docx

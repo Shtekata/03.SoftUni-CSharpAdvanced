@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23062019Exam\SCAdvancedExam230619\01. FirstTask\bin\Debug\netcoreapp2.2\01. FirstTask.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23062019Exam\SCAdvancedExam230619\01. FirstTask\bin\Debug\netcoreapp2.2\01. FirstTask.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23062019Exam\SCAdvancedExam230619\01. FirstTask\bin\Debug\netcoreapp2.2\01. FirstTask.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23062019Exam\SCAdvancedExam230619\01. FirstTask\bin\Debug\netcoreapp2.2\01. FirstTask.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23062019Exam\SCAdvancedExam230619\01. FirstTask\bin\Debug\netcoreapp2.2\01. FirstTask.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23062019Exam\SCAdvancedExam230619\01. FirstTask\obj\Debug\netcoreapp2.2\01. FirstTask.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23062019Exam\SCAdvancedExam230619\01. FirstTask\obj\Debug\netcoreapp2.2\01. FirstTask.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23062019Exam\SCAdvancedExam230619\01. FirstTask\obj\Debug\netcoreapp2.2\01. FirstTask.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23062019Exam\SCAdvancedExam230619\01. FirstTask\obj\Debug\netcoreapp2.2\01. FirstTask.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23062019Exam\SCAdvancedExam230619\01. FirstTask\obj\Debug\netcoreapp2.2\01. FirstTask.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23062019Exam\SCAdvancedExam230619\01. FirstTask\obj\Debug\netcoreapp2.2\01. FirstTask.pdb

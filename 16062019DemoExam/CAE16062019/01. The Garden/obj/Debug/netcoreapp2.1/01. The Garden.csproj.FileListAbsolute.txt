@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16062019DemoExam\CAE16062019\01. The Garden\bin\Debug\netcoreapp2.1\01. The Garden.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16062019DemoExam\CAE16062019\01. The Garden\bin\Debug\netcoreapp2.1\01. The Garden.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16062019DemoExam\CAE16062019\01. The Garden\bin\Debug\netcoreapp2.1\01. The Garden.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16062019DemoExam\CAE16062019\01. The Garden\bin\Debug\netcoreapp2.1\01. The Garden.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16062019DemoExam\CAE16062019\01. The Garden\bin\Debug\netcoreapp2.1\01. The Garden.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16062019DemoExam\CAE16062019\01. The Garden\obj\Debug\netcoreapp2.1\01. The Garden.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16062019DemoExam\CAE16062019\01. The Garden\obj\Debug\netcoreapp2.1\01. The Garden.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16062019DemoExam\CAE16062019\01. The Garden\obj\Debug\netcoreapp2.1\01. The Garden.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16062019DemoExam\CAE16062019\01. The Garden\obj\Debug\netcoreapp2.1\01. The Garden.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16062019DemoExam\CAE16062019\01. The Garden\obj\Debug\netcoreapp2.1\01. The Garden.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16062019DemoExam\CAE16062019\01. The Garden\obj\Debug\netcoreapp2.1\01. The Garden.pdb

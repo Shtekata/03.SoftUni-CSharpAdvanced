@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\05. MULTIDIMENSIONAL ARRAYS\MA-L\05. Square With Maximum Sum\bin\Debug\netcoreapp2.2\05. Square With Maximum Sum.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\05. MULTIDIMENSIONAL ARRAYS\MA-L\05. Square With Maximum Sum\bin\Debug\netcoreapp2.2\05. Square With Maximum Sum.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\05. MULTIDIMENSIONAL ARRAYS\MA-L\05. Square With Maximum Sum\bin\Debug\netcoreapp2.2\05. Square With Maximum Sum.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\05. MULTIDIMENSIONAL ARRAYS\MA-L\05. Square With Maximum Sum\bin\Debug\netcoreapp2.2\05. Square With Maximum Sum.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\05. MULTIDIMENSIONAL ARRAYS\MA-L\05. Square With Maximum Sum\bin\Debug\netcoreapp2.2\05. Square With Maximum Sum.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\05. MULTIDIMENSIONAL ARRAYS\MA-L\05. Square With Maximum Sum\obj\Debug\netcoreapp2.2\05. Square With Maximum Sum.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\05. MULTIDIMENSIONAL ARRAYS\MA-L\05. Square With Maximum Sum\obj\Debug\netcoreapp2.2\05. Square With Maximum Sum.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\05. MULTIDIMENSIONAL ARRAYS\MA-L\05. Square With Maximum Sum\obj\Debug\netcoreapp2.2\05. Square With Maximum Sum.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\05. MULTIDIMENSIONAL ARRAYS\MA-L\05. Square With Maximum Sum\obj\Debug\netcoreapp2.2\05. Square With Maximum Sum.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\05. MULTIDIMENSIONAL ARRAYS\MA-L\05. Square With Maximum Sum\obj\Debug\netcoreapp2.2\05. Square With Maximum Sum.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\05. MULTIDIMENSIONAL ARRAYS\MA-L\05. Square With Maximum Sum\obj\Debug\netcoreapp2.2\05. Square With Maximum Sum.pdb

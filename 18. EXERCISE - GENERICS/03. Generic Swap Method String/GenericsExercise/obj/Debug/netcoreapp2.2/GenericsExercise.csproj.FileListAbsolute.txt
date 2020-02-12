@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\18. EXERCISE - GENERICS\03. Generic Swap Method String\GenericsExercise\bin\Debug\netcoreapp2.2\GenericsExercise.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\18. EXERCISE - GENERICS\03. Generic Swap Method String\GenericsExercise\bin\Debug\netcoreapp2.2\GenericsExercise.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\18. EXERCISE - GENERICS\03. Generic Swap Method String\GenericsExercise\bin\Debug\netcoreapp2.2\GenericsExercise.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\18. EXERCISE - GENERICS\03. Generic Swap Method String\GenericsExercise\bin\Debug\netcoreapp2.2\GenericsExercise.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\18. EXERCISE - GENERICS\03. Generic Swap Method String\GenericsExercise\bin\Debug\netcoreapp2.2\GenericsExercise.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\18. EXERCISE - GENERICS\03. Generic Swap Method String\GenericsExercise\obj\Debug\netcoreapp2.2\GenericsExercise.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\18. EXERCISE - GENERICS\03. Generic Swap Method String\GenericsExercise\obj\Debug\netcoreapp2.2\GenericsExercise.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\18. EXERCISE - GENERICS\03. Generic Swap Method String\GenericsExercise\obj\Debug\netcoreapp2.2\GenericsExercise.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\18. EXERCISE - GENERICS\03. Generic Swap Method String\GenericsExercise\obj\Debug\netcoreapp2.2\GenericsExercise.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\18. EXERCISE - GENERICS\03. Generic Swap Method String\GenericsExercise\obj\Debug\netcoreapp2.2\GenericsExercise.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\18. EXERCISE - GENERICS\03. Generic Swap Method String\GenericsExercise\obj\Debug\netcoreapp2.2\GenericsExercise.pdb

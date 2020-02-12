@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\01. Diagonal Difference\bin\Debug\netcoreapp2.2\01. Diagonal Difference.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\01. Diagonal Difference\bin\Debug\netcoreapp2.2\01. Diagonal Difference.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\01. Diagonal Difference\bin\Debug\netcoreapp2.2\01. Diagonal Difference.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\01. Diagonal Difference\bin\Debug\netcoreapp2.2\01. Diagonal Difference.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\01. Diagonal Difference\bin\Debug\netcoreapp2.2\01. Diagonal Difference.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\01. Diagonal Difference\obj\Debug\netcoreapp2.2\01. Diagonal Difference.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\01. Diagonal Difference\obj\Debug\netcoreapp2.2\01. Diagonal Difference.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\01. Diagonal Difference\obj\Debug\netcoreapp2.2\01. Diagonal Difference.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\01. Diagonal Difference\obj\Debug\netcoreapp2.2\01. Diagonal Difference.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\01. Diagonal Difference\obj\Debug\netcoreapp2.2\01. Diagonal Difference.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\01. Diagonal Difference\obj\Debug\netcoreapp2.2\01. Diagonal Difference.pdb

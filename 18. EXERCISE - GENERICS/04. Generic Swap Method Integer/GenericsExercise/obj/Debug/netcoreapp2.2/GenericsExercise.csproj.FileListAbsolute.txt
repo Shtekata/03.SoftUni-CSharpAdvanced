@@ -1,0 +1,4 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\18. EXERCISE - GENERICS\04. Generic Swap Method Integer\GenericsExercise\obj\Debug\netcoreapp2.2\GenericsExercise.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\18. EXERCISE - GENERICS\04. Generic Swap Method Integer\GenericsExercise\obj\Debug\netcoreapp2.2\GenericsExercise.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\18. EXERCISE - GENERICS\04. Generic Swap Method Integer\GenericsExercise\obj\Debug\netcoreapp2.2\GenericsExercise.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\18. EXERCISE - GENERICS\04. Generic Swap Method Integer\GenericsExercise\obj\Debug\netcoreapp2.2\GenericsExercise.AssemblyInfo.cs

@@ -1,0 +1,10 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\05. Snake Moves\bin\Debug\netcoreapp2.2\05. Snake Moves.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\05. Snake Moves\bin\Debug\netcoreapp2.2\05. Snake Moves.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\05. Snake Moves\bin\Debug\netcoreapp2.2\05. Snake Moves.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\05. Snake Moves\bin\Debug\netcoreapp2.2\05. Snake Moves.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\05. Snake Moves\bin\Debug\netcoreapp2.2\05. Snake Moves.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\05. Snake Moves\obj\Debug\netcoreapp2.2\05. Snake Moves.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\05. Snake Moves\obj\Debug\netcoreapp2.2\05. Snake Moves.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\05. Snake Moves\obj\Debug\netcoreapp2.2\05. Snake Moves.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\05. Snake Moves\obj\Debug\netcoreapp2.2\05. Snake Moves.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\05. Snake Moves\obj\Debug\netcoreapp2.2\05. Snake Moves.pdb

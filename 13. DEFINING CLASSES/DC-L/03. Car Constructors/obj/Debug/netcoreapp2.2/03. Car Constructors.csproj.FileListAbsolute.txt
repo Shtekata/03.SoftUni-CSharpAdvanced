@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\13. DEFINING CLASSES\DC-L\03. Car Constructors\bin\Debug\netcoreapp2.2\03. Car Constructors.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\13. DEFINING CLASSES\DC-L\03. Car Constructors\bin\Debug\netcoreapp2.2\03. Car Constructors.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\13. DEFINING CLASSES\DC-L\03. Car Constructors\bin\Debug\netcoreapp2.2\03. Car Constructors.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\13. DEFINING CLASSES\DC-L\03. Car Constructors\bin\Debug\netcoreapp2.2\03. Car Constructors.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\13. DEFINING CLASSES\DC-L\03. Car Constructors\bin\Debug\netcoreapp2.2\03. Car Constructors.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\13. DEFINING CLASSES\DC-L\03. Car Constructors\obj\Debug\netcoreapp2.2\03. Car Constructors.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\13. DEFINING CLASSES\DC-L\03. Car Constructors\obj\Debug\netcoreapp2.2\03. Car Constructors.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\13. DEFINING CLASSES\DC-L\03. Car Constructors\obj\Debug\netcoreapp2.2\03. Car Constructors.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\13. DEFINING CLASSES\DC-L\03. Car Constructors\obj\Debug\netcoreapp2.2\03. Car Constructors.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\13. DEFINING CLASSES\DC-L\03. Car Constructors\obj\Debug\netcoreapp2.2\03. Car Constructors.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\13. DEFINING CLASSES\DC-L\03. Car Constructors\obj\Debug\netcoreapp2.2\03. Car Constructors.pdb

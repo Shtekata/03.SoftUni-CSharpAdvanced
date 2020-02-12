@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16062019DemoExam\CAE16062019\HealthyHeaven\obj\Debug\netcoreapp2.1\HealthyHeaven.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16062019DemoExam\CAE16062019\HealthyHeaven\obj\Debug\netcoreapp2.1\HealthyHeaven.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16062019DemoExam\CAE16062019\HealthyHeaven\obj\Debug\netcoreapp2.1\HealthyHeaven.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16062019DemoExam\CAE16062019\HealthyHeaven\obj\Debug\netcoreapp2.1\HealthyHeaven.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16062019DemoExam\CAE16062019\HealthyHeaven\bin\Debug\netcoreapp2.1\HealthyHeaven.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16062019DemoExam\CAE16062019\HealthyHeaven\bin\Debug\netcoreapp2.1\HealthyHeaven.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16062019DemoExam\CAE16062019\HealthyHeaven\bin\Debug\netcoreapp2.1\HealthyHeaven.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16062019DemoExam\CAE16062019\HealthyHeaven\bin\Debug\netcoreapp2.1\HealthyHeaven.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16062019DemoExam\CAE16062019\HealthyHeaven\bin\Debug\netcoreapp2.1\HealthyHeaven.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16062019DemoExam\CAE16062019\HealthyHeaven\obj\Debug\netcoreapp2.1\HealthyHeaven.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\16062019DemoExam\CAE16062019\HealthyHeaven\obj\Debug\netcoreapp2.1\HealthyHeaven.pdb

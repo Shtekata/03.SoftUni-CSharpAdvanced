@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\20. EXERCISE - ITERATORS AND COMPARATORS\IAC-E\01. ListyIterator\bin\Debug\netcoreapp2.2\01. ListyIterator.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\20. EXERCISE - ITERATORS AND COMPARATORS\IAC-E\01. ListyIterator\bin\Debug\netcoreapp2.2\01. ListyIterator.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\20. EXERCISE - ITERATORS AND COMPARATORS\IAC-E\01. ListyIterator\bin\Debug\netcoreapp2.2\01. ListyIterator.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\20. EXERCISE - ITERATORS AND COMPARATORS\IAC-E\01. ListyIterator\bin\Debug\netcoreapp2.2\01. ListyIterator.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\20. EXERCISE - ITERATORS AND COMPARATORS\IAC-E\01. ListyIterator\bin\Debug\netcoreapp2.2\01. ListyIterator.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\20. EXERCISE - ITERATORS AND COMPARATORS\IAC-E\01. ListyIterator\obj\Debug\netcoreapp2.2\01. ListyIterator.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\20. EXERCISE - ITERATORS AND COMPARATORS\IAC-E\01. ListyIterator\obj\Debug\netcoreapp2.2\01. ListyIterator.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\20. EXERCISE - ITERATORS AND COMPARATORS\IAC-E\01. ListyIterator\obj\Debug\netcoreapp2.2\01. ListyIterator.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\20. EXERCISE - ITERATORS AND COMPARATORS\IAC-E\01. ListyIterator\obj\Debug\netcoreapp2.2\01. ListyIterator.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\20. EXERCISE - ITERATORS AND COMPARATORS\IAC-E\01. ListyIterator\obj\Debug\netcoreapp2.2\01. ListyIterator.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\20. EXERCISE - ITERATORS AND COMPARATORS\IAC-E\01. ListyIterator\obj\Debug\netcoreapp2.2\01. ListyIterator.pdb

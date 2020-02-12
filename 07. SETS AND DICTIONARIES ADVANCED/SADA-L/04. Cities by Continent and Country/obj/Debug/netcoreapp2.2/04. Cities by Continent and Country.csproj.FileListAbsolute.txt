@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\07. SETS AND DICTIONARIES ADVANCED\SADA-L\04. Cities by Continent and Country\bin\Debug\netcoreapp2.2\04. Cities by Continent and Country.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\07. SETS AND DICTIONARIES ADVANCED\SADA-L\04. Cities by Continent and Country\bin\Debug\netcoreapp2.2\04. Cities by Continent and Country.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\07. SETS AND DICTIONARIES ADVANCED\SADA-L\04. Cities by Continent and Country\bin\Debug\netcoreapp2.2\04. Cities by Continent and Country.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\07. SETS AND DICTIONARIES ADVANCED\SADA-L\04. Cities by Continent and Country\bin\Debug\netcoreapp2.2\04. Cities by Continent and Country.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\07. SETS AND DICTIONARIES ADVANCED\SADA-L\04. Cities by Continent and Country\bin\Debug\netcoreapp2.2\04. Cities by Continent and Country.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\07. SETS AND DICTIONARIES ADVANCED\SADA-L\04. Cities by Continent and Country\obj\Debug\netcoreapp2.2\04. Cities by Continent and Country.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\07. SETS AND DICTIONARIES ADVANCED\SADA-L\04. Cities by Continent and Country\obj\Debug\netcoreapp2.2\04. Cities by Continent and Country.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\07. SETS AND DICTIONARIES ADVANCED\SADA-L\04. Cities by Continent and Country\obj\Debug\netcoreapp2.2\04. Cities by Continent and Country.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\07. SETS AND DICTIONARIES ADVANCED\SADA-L\04. Cities by Continent and Country\obj\Debug\netcoreapp2.2\04. Cities by Continent and Country.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\07. SETS AND DICTIONARIES ADVANCED\SADA-L\04. Cities by Continent and Country\obj\Debug\netcoreapp2.2\04. Cities by Continent and Country.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\07. SETS AND DICTIONARIES ADVANCED\SADA-L\04. Cities by Continent and Country\obj\Debug\netcoreapp2.2\04. Cities by Continent and Country.pdb

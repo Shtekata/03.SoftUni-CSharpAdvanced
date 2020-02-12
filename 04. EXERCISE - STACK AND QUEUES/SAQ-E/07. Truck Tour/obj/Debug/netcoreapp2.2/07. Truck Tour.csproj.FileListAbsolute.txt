@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\07. Truck Tour\bin\Debug\netcoreapp2.2\07. Truck Tour.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\07. Truck Tour\bin\Debug\netcoreapp2.2\07. Truck Tour.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\07. Truck Tour\bin\Debug\netcoreapp2.2\07. Truck Tour.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\07. Truck Tour\bin\Debug\netcoreapp2.2\07. Truck Tour.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\07. Truck Tour\bin\Debug\netcoreapp2.2\07. Truck Tour.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\07. Truck Tour\obj\Debug\netcoreapp2.2\07. Truck Tour.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\07. Truck Tour\obj\Debug\netcoreapp2.2\07. Truck Tour.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\07. Truck Tour\obj\Debug\netcoreapp2.2\07. Truck Tour.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\07. Truck Tour\obj\Debug\netcoreapp2.2\07. Truck Tour.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\07. Truck Tour\obj\Debug\netcoreapp2.2\07. Truck Tour.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\07. Truck Tour\obj\Debug\netcoreapp2.2\07. Truck Tour.pdb

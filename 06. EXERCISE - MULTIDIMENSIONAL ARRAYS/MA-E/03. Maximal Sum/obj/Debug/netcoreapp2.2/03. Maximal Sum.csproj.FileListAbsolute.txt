@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\03. Maximal Sum\bin\Debug\netcoreapp2.2\03. Maximal Sum.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\03. Maximal Sum\bin\Debug\netcoreapp2.2\03. Maximal Sum.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\03. Maximal Sum\bin\Debug\netcoreapp2.2\03. Maximal Sum.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\03. Maximal Sum\bin\Debug\netcoreapp2.2\03. Maximal Sum.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\03. Maximal Sum\bin\Debug\netcoreapp2.2\03. Maximal Sum.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\03. Maximal Sum\obj\Debug\netcoreapp2.2\03. Maximal Sum.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\03. Maximal Sum\obj\Debug\netcoreapp2.2\03. Maximal Sum.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\03. Maximal Sum\obj\Debug\netcoreapp2.2\03. Maximal Sum.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\03. Maximal Sum\obj\Debug\netcoreapp2.2\03. Maximal Sum.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\03. Maximal Sum\obj\Debug\netcoreapp2.2\03. Maximal Sum.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\06. EXERCISE - MULTIDIMENSIONAL ARRAYS\MA-E\03. Maximal Sum\obj\Debug\netcoreapp2.2\03. Maximal Sum.pdb

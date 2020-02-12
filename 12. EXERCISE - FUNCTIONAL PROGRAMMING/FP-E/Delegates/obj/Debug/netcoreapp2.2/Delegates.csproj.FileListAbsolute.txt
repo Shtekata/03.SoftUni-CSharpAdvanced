@@ -1,0 +1,10 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\Delegates\bin\Debug\netcoreapp2.2\Delegates.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\Delegates\bin\Debug\netcoreapp2.2\Delegates.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\Delegates\bin\Debug\netcoreapp2.2\Delegates.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\Delegates\bin\Debug\netcoreapp2.2\Delegates.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\Delegates\bin\Debug\netcoreapp2.2\Delegates.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\Delegates\obj\Debug\netcoreapp2.2\Delegates.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\Delegates\obj\Debug\netcoreapp2.2\Delegates.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\Delegates\obj\Debug\netcoreapp2.2\Delegates.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\Delegates\obj\Debug\netcoreapp2.2\Delegates.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\Delegates\obj\Debug\netcoreapp2.2\Delegates.pdb

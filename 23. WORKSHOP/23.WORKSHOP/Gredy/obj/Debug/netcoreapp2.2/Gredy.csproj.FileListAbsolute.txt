@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23. WORKSHOP\23.WORKSHOP\Gredy\bin\Debug\netcoreapp2.2\Gredy.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23. WORKSHOP\23.WORKSHOP\Gredy\bin\Debug\netcoreapp2.2\Gredy.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23. WORKSHOP\23.WORKSHOP\Gredy\bin\Debug\netcoreapp2.2\Gredy.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23. WORKSHOP\23.WORKSHOP\Gredy\bin\Debug\netcoreapp2.2\Gredy.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23. WORKSHOP\23.WORKSHOP\Gredy\bin\Debug\netcoreapp2.2\Gredy.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23. WORKSHOP\23.WORKSHOP\Gredy\obj\Debug\netcoreapp2.2\Gredy.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23. WORKSHOP\23.WORKSHOP\Gredy\obj\Debug\netcoreapp2.2\Gredy.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23. WORKSHOP\23.WORKSHOP\Gredy\obj\Debug\netcoreapp2.2\Gredy.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23. WORKSHOP\23.WORKSHOP\Gredy\obj\Debug\netcoreapp2.2\Gredy.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23. WORKSHOP\23.WORKSHOP\Gredy\obj\Debug\netcoreapp2.2\Gredy.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23. WORKSHOP\23.WORKSHOP\Gredy\obj\Debug\netcoreapp2.2\Gredy.pdb

@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\03. STACKS AND QUEUES\SAQ-L\2. Stack Sum\bin\Debug\netcoreapp2.2\2. Stack Sum.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\03. STACKS AND QUEUES\SAQ-L\2. Stack Sum\bin\Debug\netcoreapp2.2\2. Stack Sum.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\03. STACKS AND QUEUES\SAQ-L\2. Stack Sum\bin\Debug\netcoreapp2.2\2. Stack Sum.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\03. STACKS AND QUEUES\SAQ-L\2. Stack Sum\bin\Debug\netcoreapp2.2\2. Stack Sum.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\03. STACKS AND QUEUES\SAQ-L\2. Stack Sum\bin\Debug\netcoreapp2.2\2. Stack Sum.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\03. STACKS AND QUEUES\SAQ-L\2. Stack Sum\obj\Debug\netcoreapp2.2\2. Stack Sum.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\03. STACKS AND QUEUES\SAQ-L\2. Stack Sum\obj\Debug\netcoreapp2.2\2. Stack Sum.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\03. STACKS AND QUEUES\SAQ-L\2. Stack Sum\obj\Debug\netcoreapp2.2\2. Stack Sum.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\03. STACKS AND QUEUES\SAQ-L\2. Stack Sum\obj\Debug\netcoreapp2.2\2. Stack Sum.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\03. STACKS AND QUEUES\SAQ-L\2. Stack Sum\obj\Debug\netcoreapp2.2\2. Stack Sum.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\03. STACKS AND QUEUES\SAQ-L\2. Stack Sum\obj\Debug\netcoreapp2.2\2. Stack Sum.pdb

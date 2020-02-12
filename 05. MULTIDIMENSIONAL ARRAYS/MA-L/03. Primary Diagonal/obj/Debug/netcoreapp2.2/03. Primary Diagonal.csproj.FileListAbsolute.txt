@@ -1,0 +1,10 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\05. MULTIDIMENSIONAL ARRAYS\MA-L\03. Primary Diagonal\bin\Debug\netcoreapp2.2\03. Primary Diagonal.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\05. MULTIDIMENSIONAL ARRAYS\MA-L\03. Primary Diagonal\bin\Debug\netcoreapp2.2\03. Primary Diagonal.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\05. MULTIDIMENSIONAL ARRAYS\MA-L\03. Primary Diagonal\bin\Debug\netcoreapp2.2\03. Primary Diagonal.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\05. MULTIDIMENSIONAL ARRAYS\MA-L\03. Primary Diagonal\bin\Debug\netcoreapp2.2\03. Primary Diagonal.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\05. MULTIDIMENSIONAL ARRAYS\MA-L\03. Primary Diagonal\bin\Debug\netcoreapp2.2\03. Primary Diagonal.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\05. MULTIDIMENSIONAL ARRAYS\MA-L\03. Primary Diagonal\obj\Debug\netcoreapp2.2\03. Primary Diagonal.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\05. MULTIDIMENSIONAL ARRAYS\MA-L\03. Primary Diagonal\obj\Debug\netcoreapp2.2\03. Primary Diagonal.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\05. MULTIDIMENSIONAL ARRAYS\MA-L\03. Primary Diagonal\obj\Debug\netcoreapp2.2\03. Primary Diagonal.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\05. MULTIDIMENSIONAL ARRAYS\MA-L\03. Primary Diagonal\obj\Debug\netcoreapp2.2\03. Primary Diagonal.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\05. MULTIDIMENSIONAL ARRAYS\MA-L\03. Primary Diagonal\obj\Debug\netcoreapp2.2\03. Primary Diagonal.pdb

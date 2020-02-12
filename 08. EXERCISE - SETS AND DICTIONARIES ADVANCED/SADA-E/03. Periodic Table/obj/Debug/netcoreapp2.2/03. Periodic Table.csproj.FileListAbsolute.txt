@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\08. EXERCISE - SETS AND DICTIONARIES ADVANCED\SADA-E\03. Periodic Table\bin\Debug\netcoreapp2.2\03. Periodic Table.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\08. EXERCISE - SETS AND DICTIONARIES ADVANCED\SADA-E\03. Periodic Table\bin\Debug\netcoreapp2.2\03. Periodic Table.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\08. EXERCISE - SETS AND DICTIONARIES ADVANCED\SADA-E\03. Periodic Table\bin\Debug\netcoreapp2.2\03. Periodic Table.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\08. EXERCISE - SETS AND DICTIONARIES ADVANCED\SADA-E\03. Periodic Table\bin\Debug\netcoreapp2.2\03. Periodic Table.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\08. EXERCISE - SETS AND DICTIONARIES ADVANCED\SADA-E\03. Periodic Table\bin\Debug\netcoreapp2.2\03. Periodic Table.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\08. EXERCISE - SETS AND DICTIONARIES ADVANCED\SADA-E\03. Periodic Table\obj\Debug\netcoreapp2.2\03. Periodic Table.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\08. EXERCISE - SETS AND DICTIONARIES ADVANCED\SADA-E\03. Periodic Table\obj\Debug\netcoreapp2.2\03. Periodic Table.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\08. EXERCISE - SETS AND DICTIONARIES ADVANCED\SADA-E\03. Periodic Table\obj\Debug\netcoreapp2.2\03. Periodic Table.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\08. EXERCISE - SETS AND DICTIONARIES ADVANCED\SADA-E\03. Periodic Table\obj\Debug\netcoreapp2.2\03. Periodic Table.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\08. EXERCISE - SETS AND DICTIONARIES ADVANCED\SADA-E\03. Periodic Table\obj\Debug\netcoreapp2.2\03. Periodic Table.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\08. EXERCISE - SETS AND DICTIONARIES ADVANCED\SADA-E\03. Periodic Table\obj\Debug\netcoreapp2.2\03. Periodic Table.pdb

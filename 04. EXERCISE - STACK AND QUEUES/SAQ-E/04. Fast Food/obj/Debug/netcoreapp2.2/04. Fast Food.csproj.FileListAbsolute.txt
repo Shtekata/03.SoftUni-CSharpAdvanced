@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\04. Fast Food\bin\Debug\netcoreapp2.2\04. Fast Food.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\04. Fast Food\bin\Debug\netcoreapp2.2\04. Fast Food.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\04. Fast Food\bin\Debug\netcoreapp2.2\04. Fast Food.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\04. Fast Food\bin\Debug\netcoreapp2.2\04. Fast Food.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\04. Fast Food\bin\Debug\netcoreapp2.2\04. Fast Food.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\04. Fast Food\obj\Debug\netcoreapp2.2\04. Fast Food.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\04. Fast Food\obj\Debug\netcoreapp2.2\04. Fast Food.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\04. Fast Food\obj\Debug\netcoreapp2.2\04. Fast Food.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\04. Fast Food\obj\Debug\netcoreapp2.2\04. Fast Food.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\04. Fast Food\obj\Debug\netcoreapp2.2\04. Fast Food.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\04. Fast Food\obj\Debug\netcoreapp2.2\04. Fast Food.pdb

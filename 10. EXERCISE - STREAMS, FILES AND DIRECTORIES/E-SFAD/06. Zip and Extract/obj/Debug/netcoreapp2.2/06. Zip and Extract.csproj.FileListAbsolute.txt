@@ -1,0 +1,12 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\06. Zip and Extract\bin\Debug\netcoreapp2.2\copyMe.png
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\06. Zip and Extract\bin\Debug\netcoreapp2.2\06. Zip and Extract.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\06. Zip and Extract\bin\Debug\netcoreapp2.2\06. Zip and Extract.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\06. Zip and Extract\bin\Debug\netcoreapp2.2\06. Zip and Extract.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\06. Zip and Extract\bin\Debug\netcoreapp2.2\06. Zip and Extract.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\06. Zip and Extract\bin\Debug\netcoreapp2.2\06. Zip and Extract.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\06. Zip and Extract\obj\Debug\netcoreapp2.2\06. Zip and Extract.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\06. Zip and Extract\obj\Debug\netcoreapp2.2\06. Zip and Extract.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\06. Zip and Extract\obj\Debug\netcoreapp2.2\06. Zip and Extract.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\06. Zip and Extract\obj\Debug\netcoreapp2.2\06. Zip and Extract.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\06. Zip and Extract\obj\Debug\netcoreapp2.2\06. Zip and Extract.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\10. EXERCISE - STREAMS, FILES AND DIRECTORIES\E-SFAD\06. Zip and Extract\obj\Debug\netcoreapp2.2\06. Zip and Extract.pdb

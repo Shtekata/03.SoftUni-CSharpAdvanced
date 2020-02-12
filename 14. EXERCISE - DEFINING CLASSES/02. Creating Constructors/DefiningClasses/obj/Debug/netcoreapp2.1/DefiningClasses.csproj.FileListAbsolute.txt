@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\14. EXERCISE - DEFINING CLASSES\02. Creating Constructors\DefiningClasses\bin\Debug\netcoreapp2.1\DefiningClasses.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\14. EXERCISE - DEFINING CLASSES\02. Creating Constructors\DefiningClasses\bin\Debug\netcoreapp2.1\DefiningClasses.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\14. EXERCISE - DEFINING CLASSES\02. Creating Constructors\DefiningClasses\bin\Debug\netcoreapp2.1\DefiningClasses.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\14. EXERCISE - DEFINING CLASSES\02. Creating Constructors\DefiningClasses\bin\Debug\netcoreapp2.1\DefiningClasses.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\14. EXERCISE - DEFINING CLASSES\02. Creating Constructors\DefiningClasses\bin\Debug\netcoreapp2.1\DefiningClasses.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\14. EXERCISE - DEFINING CLASSES\02. Creating Constructors\DefiningClasses\obj\Debug\netcoreapp2.1\DefiningClasses.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\14. EXERCISE - DEFINING CLASSES\02. Creating Constructors\DefiningClasses\obj\Debug\netcoreapp2.1\DefiningClasses.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\14. EXERCISE - DEFINING CLASSES\02. Creating Constructors\DefiningClasses\obj\Debug\netcoreapp2.1\DefiningClasses.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\14. EXERCISE - DEFINING CLASSES\02. Creating Constructors\DefiningClasses\obj\Debug\netcoreapp2.1\DefiningClasses.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\14. EXERCISE - DEFINING CLASSES\02. Creating Constructors\DefiningClasses\obj\Debug\netcoreapp2.1\DefiningClasses.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\14. EXERCISE - DEFINING CLASSES\02. Creating Constructors\DefiningClasses\obj\Debug\netcoreapp2.1\DefiningClasses.csprojAssemblyReference.cache

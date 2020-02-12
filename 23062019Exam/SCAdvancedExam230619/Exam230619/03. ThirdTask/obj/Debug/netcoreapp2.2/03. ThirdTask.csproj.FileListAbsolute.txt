@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23062019Exam\SCAdvancedExam230619\Exam230619\03. ThirdTask\bin\Debug\netcoreapp2.2\03. ThirdTask.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23062019Exam\SCAdvancedExam230619\Exam230619\03. ThirdTask\bin\Debug\netcoreapp2.2\03. ThirdTask.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23062019Exam\SCAdvancedExam230619\Exam230619\03. ThirdTask\bin\Debug\netcoreapp2.2\03. ThirdTask.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23062019Exam\SCAdvancedExam230619\Exam230619\03. ThirdTask\bin\Debug\netcoreapp2.2\03. ThirdTask.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23062019Exam\SCAdvancedExam230619\Exam230619\03. ThirdTask\bin\Debug\netcoreapp2.2\03. ThirdTask.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23062019Exam\SCAdvancedExam230619\Exam230619\03. ThirdTask\obj\Debug\netcoreapp2.2\03. ThirdTask.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23062019Exam\SCAdvancedExam230619\Exam230619\03. ThirdTask\obj\Debug\netcoreapp2.2\03. ThirdTask.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23062019Exam\SCAdvancedExam230619\Exam230619\03. ThirdTask\obj\Debug\netcoreapp2.2\03. ThirdTask.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23062019Exam\SCAdvancedExam230619\Exam230619\03. ThirdTask\obj\Debug\netcoreapp2.2\03. ThirdTask.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23062019Exam\SCAdvancedExam230619\Exam230619\03. ThirdTask\obj\Debug\netcoreapp2.2\03. ThirdTask.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\23062019Exam\SCAdvancedExam230619\Exam230619\03. ThirdTask\obj\Debug\netcoreapp2.2\03. ThirdTask.pdb

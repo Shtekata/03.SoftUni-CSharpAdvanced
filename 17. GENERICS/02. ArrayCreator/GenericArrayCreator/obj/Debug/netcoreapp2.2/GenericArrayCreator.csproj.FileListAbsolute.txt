@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\17. GENERICS\02. ArrayCreator\GenericArrayCreator\bin\Debug\netcoreapp2.2\GenericArrayCreator.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\17. GENERICS\02. ArrayCreator\GenericArrayCreator\bin\Debug\netcoreapp2.2\GenericArrayCreator.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\17. GENERICS\02. ArrayCreator\GenericArrayCreator\bin\Debug\netcoreapp2.2\GenericArrayCreator.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\17. GENERICS\02. ArrayCreator\GenericArrayCreator\bin\Debug\netcoreapp2.2\GenericArrayCreator.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\17. GENERICS\02. ArrayCreator\GenericArrayCreator\bin\Debug\netcoreapp2.2\GenericArrayCreator.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\17. GENERICS\02. ArrayCreator\GenericArrayCreator\obj\Debug\netcoreapp2.2\GenericArrayCreator.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\17. GENERICS\02. ArrayCreator\GenericArrayCreator\obj\Debug\netcoreapp2.2\GenericArrayCreator.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\17. GENERICS\02. ArrayCreator\GenericArrayCreator\obj\Debug\netcoreapp2.2\GenericArrayCreator.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\17. GENERICS\02. ArrayCreator\GenericArrayCreator\obj\Debug\netcoreapp2.2\GenericArrayCreator.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\17. GENERICS\02. ArrayCreator\GenericArrayCreator\obj\Debug\netcoreapp2.2\GenericArrayCreator.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\17. GENERICS\02. ArrayCreator\GenericArrayCreator\obj\Debug\netcoreapp2.2\GenericArrayCreator.pdb

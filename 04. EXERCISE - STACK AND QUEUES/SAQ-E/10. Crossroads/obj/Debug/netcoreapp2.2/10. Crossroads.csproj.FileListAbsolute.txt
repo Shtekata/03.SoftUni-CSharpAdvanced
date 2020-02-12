@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\10. Crossroads\bin\Debug\netcoreapp2.2\10. Crossroads.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\10. Crossroads\bin\Debug\netcoreapp2.2\10. Crossroads.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\10. Crossroads\bin\Debug\netcoreapp2.2\10. Crossroads.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\10. Crossroads\bin\Debug\netcoreapp2.2\10. Crossroads.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\10. Crossroads\bin\Debug\netcoreapp2.2\10. Crossroads.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\10. Crossroads\obj\Debug\netcoreapp2.2\10. Crossroads.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\10. Crossroads\obj\Debug\netcoreapp2.2\10. Crossroads.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\10. Crossroads\obj\Debug\netcoreapp2.2\10. Crossroads.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\10. Crossroads\obj\Debug\netcoreapp2.2\10. Crossroads.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\10. Crossroads\obj\Debug\netcoreapp2.2\10. Crossroads.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\10. Crossroads\obj\Debug\netcoreapp2.2\10. Crossroads.pdb

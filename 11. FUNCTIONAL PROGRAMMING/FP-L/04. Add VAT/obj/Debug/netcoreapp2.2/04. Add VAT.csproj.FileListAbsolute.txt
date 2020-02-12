@@ -1,0 +1,10 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\11. FUNCTIONAL PROGRAMMING\FP-L\04. Add VAT\bin\Debug\netcoreapp2.2\04. Add VAT.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\11. FUNCTIONAL PROGRAMMING\FP-L\04. Add VAT\bin\Debug\netcoreapp2.2\04. Add VAT.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\11. FUNCTIONAL PROGRAMMING\FP-L\04. Add VAT\bin\Debug\netcoreapp2.2\04. Add VAT.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\11. FUNCTIONAL PROGRAMMING\FP-L\04. Add VAT\bin\Debug\netcoreapp2.2\04. Add VAT.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\11. FUNCTIONAL PROGRAMMING\FP-L\04. Add VAT\bin\Debug\netcoreapp2.2\04. Add VAT.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\11. FUNCTIONAL PROGRAMMING\FP-L\04. Add VAT\obj\Debug\netcoreapp2.2\04. Add VAT.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\11. FUNCTIONAL PROGRAMMING\FP-L\04. Add VAT\obj\Debug\netcoreapp2.2\04. Add VAT.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\11. FUNCTIONAL PROGRAMMING\FP-L\04. Add VAT\obj\Debug\netcoreapp2.2\04. Add VAT.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\11. FUNCTIONAL PROGRAMMING\FP-L\04. Add VAT\obj\Debug\netcoreapp2.2\04. Add VAT.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\11. FUNCTIONAL PROGRAMMING\FP-L\04. Add VAT\obj\Debug\netcoreapp2.2\04. Add VAT.pdb

@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\04. Find Evens or Odds\bin\Debug\netcoreapp2.2\04. Find Evens or Odds.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\04. Find Evens or Odds\bin\Debug\netcoreapp2.2\04. Find Evens or Odds.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\04. Find Evens or Odds\bin\Debug\netcoreapp2.2\04. Find Evens or Odds.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\04. Find Evens or Odds\bin\Debug\netcoreapp2.2\04. Find Evens or Odds.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\04. Find Evens or Odds\bin\Debug\netcoreapp2.2\04. Find Evens or Odds.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\04. Find Evens or Odds\obj\Debug\netcoreapp2.2\04. Find Evens or Odds.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\04. Find Evens or Odds\obj\Debug\netcoreapp2.2\04. Find Evens or Odds.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\04. Find Evens or Odds\obj\Debug\netcoreapp2.2\04. Find Evens or Odds.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\04. Find Evens or Odds\obj\Debug\netcoreapp2.2\04. Find Evens or Odds.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\04. Find Evens or Odds\obj\Debug\netcoreapp2.2\04. Find Evens or Odds.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\12. EXERCISE - FUNCTIONAL PROGRAMMING\FP-E\04. Find Evens or Odds\obj\Debug\netcoreapp2.2\04. Find Evens or Odds.pdb

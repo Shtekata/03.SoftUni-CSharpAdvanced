@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\02. Basic Queue Operations\bin\Debug\netcoreapp2.2\02. Basic Queue Operations.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\02. Basic Queue Operations\bin\Debug\netcoreapp2.2\02. Basic Queue Operations.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\02. Basic Queue Operations\bin\Debug\netcoreapp2.2\02. Basic Queue Operations.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\02. Basic Queue Operations\bin\Debug\netcoreapp2.2\02. Basic Queue Operations.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\02. Basic Queue Operations\bin\Debug\netcoreapp2.2\02. Basic Queue Operations.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\02. Basic Queue Operations\obj\Debug\netcoreapp2.2\02. Basic Queue Operations.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\02. Basic Queue Operations\obj\Debug\netcoreapp2.2\02. Basic Queue Operations.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\02. Basic Queue Operations\obj\Debug\netcoreapp2.2\02. Basic Queue Operations.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\02. Basic Queue Operations\obj\Debug\netcoreapp2.2\02. Basic Queue Operations.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\02. Basic Queue Operations\obj\Debug\netcoreapp2.2\02. Basic Queue Operations.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\04. EXERCISE - STACK AND QUEUES\SAQ-E\02. Basic Queue Operations\obj\Debug\netcoreapp2.2\02. Basic Queue Operations.pdb

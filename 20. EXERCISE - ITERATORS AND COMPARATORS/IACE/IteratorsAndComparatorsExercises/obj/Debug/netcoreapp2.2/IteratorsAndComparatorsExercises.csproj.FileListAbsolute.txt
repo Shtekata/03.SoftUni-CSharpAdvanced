@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\20. EXERCISE - ITERATORS AND COMPARATORS\IACE\IteratorsAndComparatorsExercises\bin\Debug\netcoreapp2.2\IteratorsAndComparatorsExercises.deps.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\20. EXERCISE - ITERATORS AND COMPARATORS\IACE\IteratorsAndComparatorsExercises\bin\Debug\netcoreapp2.2\IteratorsAndComparatorsExercises.runtimeconfig.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\20. EXERCISE - ITERATORS AND COMPARATORS\IACE\IteratorsAndComparatorsExercises\bin\Debug\netcoreapp2.2\IteratorsAndComparatorsExercises.runtimeconfig.dev.json
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\20. EXERCISE - ITERATORS AND COMPARATORS\IACE\IteratorsAndComparatorsExercises\bin\Debug\netcoreapp2.2\IteratorsAndComparatorsExercises.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\20. EXERCISE - ITERATORS AND COMPARATORS\IACE\IteratorsAndComparatorsExercises\bin\Debug\netcoreapp2.2\IteratorsAndComparatorsExercises.pdb
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\20. EXERCISE - ITERATORS AND COMPARATORS\IACE\IteratorsAndComparatorsExercises\obj\Debug\netcoreapp2.2\IteratorsAndComparatorsExercises.csprojAssemblyReference.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\20. EXERCISE - ITERATORS AND COMPARATORS\IACE\IteratorsAndComparatorsExercises\obj\Debug\netcoreapp2.2\IteratorsAndComparatorsExercises.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\20. EXERCISE - ITERATORS AND COMPARATORS\IACE\IteratorsAndComparatorsExercises\obj\Debug\netcoreapp2.2\IteratorsAndComparatorsExercises.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\20. EXERCISE - ITERATORS AND COMPARATORS\IACE\IteratorsAndComparatorsExercises\obj\Debug\netcoreapp2.2\IteratorsAndComparatorsExercises.AssemblyInfo.cs
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\20. EXERCISE - ITERATORS AND COMPARATORS\IACE\IteratorsAndComparatorsExercises\obj\Debug\netcoreapp2.2\IteratorsAndComparatorsExercises.dll
+D:\OneDrive\Projects\03. SoftUni - C# Advanced\20. EXERCISE - ITERATORS AND COMPARATORS\IACE\IteratorsAndComparatorsExercises\obj\Debug\netcoreapp2.2\IteratorsAndComparatorsExercises.pdb
